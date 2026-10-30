@@ -1,0 +1,2163 @@
+[
+  {
+    "objectID": "countries/ZAF/index.html",
+    "href": "countries/ZAF/index.html",
+    "title": "South Africa",
+    "section": "",
+    "text": "Currency-basket weights for the ZAR, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "Sub-Saharan Africa",
+      "South Africa"
+    ]
+  },
+  {
+    "objectID": "countries/ZAF/index.html#zarusd-level",
+    "href": "countries/ZAF/index.html#zarusd-level",
+    "title": "South Africa",
+    "section": "ZAR/USD level",
+    "text": "ZAR/USD level",
+    "crumbs": [
+      "Home",
+      "Sub-Saharan Africa",
+      "South Africa"
+    ]
+  },
+  {
+    "objectID": "countries/ZAF/index.html#structural-breaks",
+    "href": "countries/ZAF/index.html#structural-breaks",
+    "title": "South Africa",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1995-07-07\n26\n0.512\n0.042\n1.182\n-0.084\n0.073\n-0.105\n0.822\n\n\n1995-07-14--1996-02-09\n31\n0.954\n-0.051\n0.801\n0.033\n0.069\n0.180\n0.035\n\n\n1996-02-16--1997-02-21\n54\n0.419\n0.475\n1.702\n-0.697\n0.321\n-0.180\n1.881\n\n\n1997-02-28--1998-06-05\n67\n0.830\n0.178\n0.818\n0.024\n0.047\n0.069\n0.234\n\n\n1998-06-12--1999-01-22\n33\n0.273\n0.804\n0.960\n0.421\n0.937\n-0.877\n9.883\n\n\n1999-01-29--2001-09-07\n137\n0.578\n0.175\n0.584\n0.031\n0.244\n0.022\n1.178\n\n\n2001-09-14--2002-03-08\n26\n0.467\n1.329\n2.315\n0.580\n-1.635\n-0.137\n7.801\n\n\n2002-03-15--2025-06-13\n1214\n0.124\n0.057\n0.128\n-0.120\n0.408\n0.102\n3.429\n\n\n2025-06-20--2026-10-30\n72\n0.377\n-0.147\n-0.153\n-0.252\n1.275\n-0.067\n0.746\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Sub-Saharan Africa",
+      "South Africa"
+    ]
+  },
+  {
+    "objectID": "countries/ZAF/index.html#evolution-of-currency-weights",
+    "href": "countries/ZAF/index.html#evolution-of-currency-weights",
+    "title": "South Africa",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Sub-Saharan Africa",
+      "South Africa"
+    ]
+  },
+  {
+    "objectID": "countries/URY/index.html",
+    "href": "countries/URY/index.html",
+    "title": "Uruguay",
+    "section": "",
+    "text": "Currency-basket weights for the UYU, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-05 to 2026-10-23.",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Uruguay"
+    ]
+  },
+  {
+    "objectID": "countries/URY/index.html#uyuusd-level",
+    "href": "countries/URY/index.html#uyuusd-level",
+    "title": "Uruguay",
+    "section": "UYU/USD level",
+    "text": "UYU/USD level",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Uruguay"
+    ]
+  },
+  {
+    "objectID": "countries/URY/index.html#structural-breaks",
+    "href": "countries/URY/index.html#structural-breaks",
+    "title": "Uruguay",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1995-07-14\n26\n0.614\n0.389\n0.696\n-0.116\n-0.059\n0.395\n0.425\n\n\n1995-07-21--1997-09-12\n110\n0.935\n0.391\n1.038\n0.029\n-0.067\n-0.002\n0.048\n\n\n1997-09-19--2001-06-15\n194\n0.920\n0.159\n1.004\n0.002\n-0.019\n0.034\n0.255\n\n\n2001-06-22--2002-03-15\n39\n0.499\n0.382\n0.956\n-0.023\n0.316\n-0.268\n2.132\n\n\n2002-03-22--2002-09-13\n26\n0.378\n2.291\n2.631\n-3.032\n4.247\n-2.928\n15.673\n\n\n2002-09-20--2005-12-30\n172\n0.597\n-0.092\n1.083\n-0.089\n-0.074\n0.013\n1.496\n\n\n2006-01-06--2007-08-31\n87\n0.971\n-0.021\n0.937\n0.011\n0.045\n-0.021\n0.101\n\n\n2007-09-07--2026-10-23\n999\n0.638\n0.051\n0.856\n-0.082\n0.093\n0.008\n1.170\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Uruguay"
+    ]
+  },
+  {
+    "objectID": "countries/URY/index.html#evolution-of-currency-weights",
+    "href": "countries/URY/index.html#evolution-of-currency-weights",
+    "title": "Uruguay",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Uruguay"
+    ]
+  },
+  {
+    "objectID": "countries/TUR/index.html",
+    "href": "countries/TUR/index.html",
+    "title": "Turkey",
+    "section": "",
+    "text": "Currency-basket weights for the TRY, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-02 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Turkey"
+    ]
+  },
+  {
+    "objectID": "countries/TUR/index.html#tryusd-level",
+    "href": "countries/TUR/index.html#tryusd-level",
+    "title": "Turkey",
+    "section": "TRY/USD level",
+    "text": "TRY/USD level",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Turkey"
+    ]
+  },
+  {
+    "objectID": "countries/TUR/index.html#structural-breaks",
+    "href": "countries/TUR/index.html#structural-breaks",
+    "title": "Turkey",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1996-01-12\n53\n0.140\n0.787\n0.671\n-0.023\n0.005\n-0.020\n1.916\n\n\n1996-01-19--1999-12-31\n207\n0.896\n1.005\n0.566\n0.016\n0.502\n-0.064\n0.197\n\n\n2000-01-07--2001-02-16\n59\n0.983\n0.331\n0.572\n0.000\n0.389\n0.033\n0.038\n\n\n2001-02-23--2001-10-05\n33\n0.052\n2.687\n-1.006\n-0.137\n1.100\n0.944\n104.668\n\n\n2001-10-12--2018-04-27\n864\n0.275\n0.135\n0.487\n-0.218\n0.278\n0.079\n2.495\n\n\n2018-05-04--2021-11-12\n185\n0.066\n0.478\n0.401\n-0.179\n0.409\n-0.023\n6.532\n\n\n2021-11-19--2022-07-22\n36\n0.052\n2.107\n1.604\n-1.617\n-0.051\n-0.040\n59.972\n\n\n2022-07-29--2023-05-12\n42\n0.979\n0.244\n0.913\n-0.004\n0.079\n-0.040\n0.052\n\n\n2023-05-19--2023-11-10\n26\n0.258\n1.240\n0.980\n0.475\n0.038\n-0.837\n5.782\n\n\n2023-11-17--2025-08-29\n94\n0.841\n0.392\n0.989\n-0.018\n0.229\n-0.161\n0.292\n\n\n2025-09-05--2026-10-30\n61\n0.990\n0.309\n1.003\n-0.007\n0.055\n-0.080\n0.016\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Turkey"
+    ]
+  },
+  {
+    "objectID": "countries/TUR/index.html#evolution-of-currency-weights",
+    "href": "countries/TUR/index.html#evolution-of-currency-weights",
+    "title": "Turkey",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Turkey"
+    ]
+  },
+  {
+    "objectID": "countries/TTO/index.html",
+    "href": "countries/TTO/index.html",
+    "title": "Trinidad & Tobago",
+    "section": "",
+    "text": "Currency-basket weights for the TTD, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Trinidad & Tobago"
+    ]
+  },
+  {
+    "objectID": "countries/TTO/index.html#ttdusd-level",
+    "href": "countries/TTO/index.html#ttdusd-level",
+    "title": "Trinidad & Tobago",
+    "section": "TTD/USD level",
+    "text": "TTD/USD level",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Trinidad & Tobago"
+    ]
+  },
+  {
+    "objectID": "countries/TTO/index.html#structural-breaks",
+    "href": "countries/TTO/index.html#structural-breaks",
+    "title": "Trinidad & Tobago",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1997-04-11\n118\n0.880\n0.045\n1.036\n-0.033\n0.116\n-0.106\n0.098\n\n\n1997-04-18--2001-06-08\n217\n0.992\n0.002\n1.014\n-0.002\n0.009\n-0.012\n0.019\n\n\n2001-06-15--2015-10-30\n749\n0.979\n0.001\n1.016\n-0.003\n-0.015\n0.010\n0.077\n\n\n2015-11-06--2026-10-30\n569\n0.934\n0.011\n0.986\n0.016\n-0.027\n0.040\n0.136\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Trinidad & Tobago"
+    ]
+  },
+  {
+    "objectID": "countries/TTO/index.html#evolution-of-currency-weights",
+    "href": "countries/TTO/index.html#evolution-of-currency-weights",
+    "title": "Trinidad & Tobago",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Trinidad & Tobago"
+    ]
+  },
+  {
+    "objectID": "countries/SRB/index.html",
+    "href": "countries/SRB/index.html",
+    "title": "Serbia",
+    "section": "",
+    "text": "Currency-basket weights for the RSD, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-05 to 2026-10-12.",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Serbia"
+    ]
+  },
+  {
+    "objectID": "countries/SRB/index.html#rsdusd-level",
+    "href": "countries/SRB/index.html#rsdusd-level",
+    "title": "Serbia",
+    "section": "RSD/USD level",
+    "text": "RSD/USD level",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Serbia"
+    ]
+  },
+  {
+    "objectID": "countries/SRB/index.html#structural-breaks",
+    "href": "countries/SRB/index.html#structural-breaks",
+    "title": "Serbia",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1995-07-07\n26\n0.274\n-0.187\n0.654\n0.132\n0.625\n-0.403\n1.696\n\n\n1995-07-14--1996-01-05\n26\n0.550\n7.700\n-5.187\n-5.610\n1.618\n23.760\n249.151\n\n\n1996-01-12--1997-10-10\n92\n0.727\n0.076\n0.066\n-0.047\n0.884\n0.117\n0.427\n\n\n1997-10-17--1998-04-10\n26\n0.256\n1.245\n-3.890\n3.756\n-0.692\n1.755\n98.562\n\n\n1998-04-17--2000-06-16\n114\n0.769\n0.027\n0.059\n0.107\n0.736\n0.197\n0.875\n\n\n2000-06-23--2000-12-15\n26\n0.534\n12.288\n15.432\n-1.261\n1.014\n-0.517\n451.303\n\n\n2000-12-22--2007-11-16\n361\n0.686\n0.041\n0.259\n-0.020\n0.705\n0.048\n0.868\n\n\n2007-11-23--2009-01-09\n60\n0.593\n0.423\n0.498\n-0.442\n1.621\n-0.590\n4.633\n\n\n2009-01-16--2013-06-07\n230\n0.683\n0.090\n0.150\n-0.057\n0.918\n-0.058\n1.088\n\n\n2013-06-14--2024-04-19\n566\n0.876\n0.007\n0.039\n-0.009\n0.925\n0.045\n0.196\n\n\n2024-04-26--2026-10-16\n130\n0.937\n-0.007\n0.024\n0.039\n0.915\n-0.006\n0.054\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Serbia"
+    ]
+  },
+  {
+    "objectID": "countries/SRB/index.html#evolution-of-currency-weights",
+    "href": "countries/SRB/index.html#evolution-of-currency-weights",
+    "title": "Serbia",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Serbia"
+    ]
+  },
+  {
+    "objectID": "countries/RUS/index.html",
+    "href": "countries/RUS/index.html",
+    "title": "Russia",
+    "section": "",
+    "text": "Currency-basket weights for the RUB, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-02 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Russia"
+    ]
+  },
+  {
+    "objectID": "countries/RUS/index.html#rubusd-level",
+    "href": "countries/RUS/index.html#rubusd-level",
+    "title": "Russia",
+    "section": "RUB/USD level",
+    "text": "RUB/USD level",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Russia"
+    ]
+  },
+  {
+    "objectID": "countries/RUS/index.html#structural-breaks",
+    "href": "countries/RUS/index.html#structural-breaks",
+    "title": "Russia",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1995-10-06\n39\n0.404\n0.541\n1.410\n-0.298\n0.100\n-0.003\n2.626\n\n\n1995-10-13--1998-08-14\n149\n0.978\n0.228\n0.999\n0.011\n0.017\n0.009\n0.030\n\n\n1998-08-21--1999-03-26\n32\n0.065\n4.260\n1.650\n-1.376\n-0.289\n-2.001\n257.090\n\n\n1999-04-02--2000-06-02\n62\n0.555\n0.142\n0.956\n0.055\n-0.122\n0.222\n2.041\n\n\n2000-06-09--2006-02-17\n298\n0.936\n0.000\n0.864\n0.059\n0.015\n0.067\n0.150\n\n\n2006-02-24--2008-08-01\n128\n0.991\n-0.031\n0.499\n-0.018\n0.560\n-0.047\n0.025\n\n\n2008-08-08--2014-10-31\n326\n0.528\n0.166\n0.403\n-0.061\n0.545\n-0.162\n1.601\n\n\n2014-11-07--2016-03-25\n73\n0.062\n0.510\n0.528\n-0.263\n-0.441\n0.543\n14.854\n\n\n2016-04-01--2022-02-18\n308\n0.211\n0.030\n0.475\n-0.124\n0.232\n0.037\n2.142\n\n\n2022-02-25--2022-08-19\n26\n0.626\n-1.344\n0.468\n-2.898\n6.015\n1.547\n36.253\n\n\n2022-08-26--2026-10-30\n215\n0.207\n0.163\n0.749\n-0.029\n-0.170\n0.528\n5.705\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Russia"
+    ]
+  },
+  {
+    "objectID": "countries/RUS/index.html#evolution-of-currency-weights",
+    "href": "countries/RUS/index.html#evolution-of-currency-weights",
+    "title": "Russia",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Russia"
+    ]
+  },
+  {
+    "objectID": "countries/QAT/index.html",
+    "href": "countries/QAT/index.html",
+    "title": "Qatar",
+    "section": "",
+    "text": "Currency-basket weights for the QAR, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Qatar"
+    ]
+  },
+  {
+    "objectID": "countries/QAT/index.html#qarusd-level",
+    "href": "countries/QAT/index.html#qarusd-level",
+    "title": "Qatar",
+    "section": "QAR/USD level",
+    "text": "QAR/USD level",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Qatar"
+    ]
+  },
+  {
+    "objectID": "countries/QAT/index.html#structural-breaks",
+    "href": "countries/QAT/index.html#structural-breaks",
+    "title": "Qatar",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--2026-10-30\n1645\n1\n0\n1\n0\n0\n0\n0\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Qatar"
+    ]
+  },
+  {
+    "objectID": "countries/QAT/index.html#evolution-of-currency-weights",
+    "href": "countries/QAT/index.html#evolution-of-currency-weights",
+    "title": "Qatar",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Qatar"
+    ]
+  },
+  {
+    "objectID": "countries/PHL/index.html",
+    "href": "countries/PHL/index.html",
+    "title": "Philippines",
+    "section": "",
+    "text": "Currency-basket weights for the PHP, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-02 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Philippines"
+    ]
+  },
+  {
+    "objectID": "countries/PHL/index.html#phpusd-level",
+    "href": "countries/PHL/index.html#phpusd-level",
+    "title": "Philippines",
+    "section": "PHP/USD level",
+    "text": "PHP/USD level",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Philippines"
+    ]
+  },
+  {
+    "objectID": "countries/PHL/index.html#structural-breaks",
+    "href": "countries/PHL/index.html#structural-breaks",
+    "title": "Philippines",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1995-11-24\n46\n0.785\n0.157\n1.137\n-0.037\n0.069\n-0.303\n0.218\n\n\n1995-12-01--1997-07-11\n85\n0.991\n0.009\n0.981\n0.000\n0.003\n0.000\n0.005\n\n\n1997-07-18--1999-01-15\n79\n0.094\n0.347\n0.519\n-0.041\n0.001\n0.025\n8.018\n\n\n1999-01-22--2000-10-06\n90\n0.810\n0.186\n0.864\n0.019\n-0.108\n0.118\n0.419\n\n\n2000-10-13--2001-04-06\n26\n0.419\n0.370\n1.441\n0.025\n0.322\n-0.947\n5.507\n\n\n2001-04-13--2026-10-30\n1334\n0.802\n0.023\n0.743\n0.013\n0.082\n0.031\n0.471\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Philippines"
+    ]
+  },
+  {
+    "objectID": "countries/PHL/index.html#evolution-of-currency-weights",
+    "href": "countries/PHL/index.html#evolution-of-currency-weights",
+    "title": "Philippines",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Philippines"
+    ]
+  },
+  {
+    "objectID": "countries/PAK/index.html",
+    "href": "countries/PAK/index.html",
+    "title": "Pakistan",
+    "section": "",
+    "text": "Currency-basket weights for the PKR, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2019-03-29.",
+    "crumbs": [
+      "Home",
+      "South Asia",
+      "Pakistan"
+    ]
+  },
+  {
+    "objectID": "countries/PAK/index.html#pkrusd-level",
+    "href": "countries/PAK/index.html#pkrusd-level",
+    "title": "Pakistan",
+    "section": "PKR/USD level",
+    "text": "PKR/USD level",
+    "crumbs": [
+      "Home",
+      "South Asia",
+      "Pakistan"
+    ]
+  },
+  {
+    "objectID": "countries/PAK/index.html#structural-breaks",
+    "href": "countries/PAK/index.html#structural-breaks",
+    "title": "Pakistan",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1995-10-13\n40\n0.986\n0.058\n0.998\n0.022\n-0.050\n0.023\n0.010\n\n\n1995-10-20--1998-07-24\n145\n0.500\n0.251\n0.955\n0.042\n0.095\n-0.010\n1.458\n\n\n1998-07-31--1999-05-28\n44\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n1999-06-04--2000-03-17\n41\n0.276\n0.209\n0.819\n0.079\n0.254\n-0.436\n3.045\n\n\n2000-03-24--2000-10-06\n29\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n2000-10-27--2002-01-25\n62\n0.629\n0.285\n0.946\n-0.132\n0.450\n-0.227\n1.603\n\n\n2002-02-01--2008-03-28\n310\n0.991\n0.005\n1.001\n-0.008\n0.003\n0.015\n0.027\n\n\n2008-04-04--2008-11-21\n34\n0.827\n0.879\n0.967\n0.100\n0.044\n-0.015\n3.008\n\n\n2008-11-28--2015-12-18\n368\n0.938\n0.077\n0.978\n-0.012\n0.010\n0.014\n0.215\n\n\n2015-12-25--2017-12-01\n101\n0.989\n0.009\n0.964\n0.000\n0.022\n0.000\n0.021\n\n\n2017-12-08--2019-03-29\n62\n0.500\n0.450\n1.104\n-0.019\n0.161\n0.066\n2.238\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "South Asia",
+      "Pakistan"
+    ]
+  },
+  {
+    "objectID": "countries/PAK/index.html#evolution-of-currency-weights",
+    "href": "countries/PAK/index.html#evolution-of-currency-weights",
+    "title": "Pakistan",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "South Asia",
+      "Pakistan"
+    ]
+  },
+  {
+    "objectID": "countries/NPL/index.html",
+    "href": "countries/NPL/index.html",
+    "title": "Nepal",
+    "section": "",
+    "text": "Currency-basket weights for the NPR, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2019-01-18.",
+    "crumbs": [
+      "Home",
+      "South Asia",
+      "Nepal"
+    ]
+  },
+  {
+    "objectID": "countries/NPL/index.html#nprusd-level",
+    "href": "countries/NPL/index.html#nprusd-level",
+    "title": "Nepal",
+    "section": "NPR/USD level",
+    "text": "NPR/USD level",
+    "crumbs": [
+      "Home",
+      "South Asia",
+      "Nepal"
+    ]
+  },
+  {
+    "objectID": "countries/NPL/index.html#structural-breaks",
+    "href": "countries/NPL/index.html#structural-breaks",
+    "title": "Nepal",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1995-08-25\n33\n0.974\n0.072\n0.989\n0.024\n-0.040\n0.067\n0.022\n\n\n1995-09-01--1996-07-19\n47\n0.532\n0.180\n1.712\n0.121\n-0.777\n0.102\n1.095\n\n\n1996-07-26--1997-08-22\n57\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n1997-08-29--1999-06-18\n95\n0.816\n0.169\n0.861\n0.001\n0.156\n-0.090\n0.508\n\n\n1999-06-25--2000-05-05\n45\n0.996\n0.014\n0.969\n0.003\n0.014\n-0.005\n0.007\n\n\n2000-05-12--2000-12-01\n26\n0.972\n0.319\n1.168\n-0.015\n-0.062\n-0.092\n0.126\n\n\n2000-12-08--2004-03-19\n171\n0.978\n0.000\n0.987\n-0.010\n-0.017\n0.010\n0.050\n\n\n2004-03-26--2008-04-25\n203\n0.865\n-0.055\n0.861\n0.039\n0.061\n-0.016\n0.398\n\n\n2008-05-02--2013-11-15\n289\n0.623\n0.155\n0.691\n-0.024\n0.065\n0.036\n1.557\n\n\n2013-11-22--2019-01-18\n270\n0.759\n0.033\n0.863\n0.001\n-0.026\n0.045\n0.472\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "South Asia",
+      "Nepal"
+    ]
+  },
+  {
+    "objectID": "countries/NPL/index.html#evolution-of-currency-weights",
+    "href": "countries/NPL/index.html#evolution-of-currency-weights",
+    "title": "Nepal",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "South Asia",
+      "Nepal"
+    ]
+  },
+  {
+    "objectID": "countries/MUS/index.html",
+    "href": "countries/MUS/index.html",
+    "title": "Mauritius",
+    "section": "",
+    "text": "Currency-basket weights for the MUR, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 2003-03-03 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "Sub-Saharan Africa",
+      "Mauritius"
+    ]
+  },
+  {
+    "objectID": "countries/MUS/index.html#murusd-level",
+    "href": "countries/MUS/index.html#murusd-level",
+    "title": "Mauritius",
+    "section": "MUR/USD level",
+    "text": "MUR/USD level",
+    "crumbs": [
+      "Home",
+      "Sub-Saharan Africa",
+      "Mauritius"
+    ]
+  },
+  {
+    "objectID": "countries/MUS/index.html#structural-breaks",
+    "href": "countries/MUS/index.html#structural-breaks",
+    "title": "Mauritius",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n2003-03-14--2004-06-11\n65\n0.793\n0.054\n0.857\n-0.020\n0.129\n0.083\n0.671\n\n\n2004-06-18--2006-07-21\n110\n0.981\n0.102\n0.977\n-0.017\n0.065\n0.015\n0.042\n\n\n2006-07-28--2011-08-05\n253\n0.771\n-0.019\n0.641\n0.020\n0.247\n0.015\n1.172\n\n\n2011-08-12--2022-04-08\n555\n0.873\n0.069\n0.684\n0.011\n0.260\n0.083\n0.264\n\n\n2022-04-15--2026-10-30\n236\n0.632\n0.027\n0.522\n0.058\n0.439\n-0.014\n0.736\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Sub-Saharan Africa",
+      "Mauritius"
+    ]
+  },
+  {
+    "objectID": "countries/MUS/index.html#evolution-of-currency-weights",
+    "href": "countries/MUS/index.html#evolution-of-currency-weights",
+    "title": "Mauritius",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Sub-Saharan Africa",
+      "Mauritius"
+    ]
+  },
+  {
+    "objectID": "countries/MEX/index.html",
+    "href": "countries/MEX/index.html",
+    "title": "Mexico",
+    "section": "",
+    "text": "Currency-basket weights for the MXN, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Mexico"
+    ]
+  },
+  {
+    "objectID": "countries/MEX/index.html#mxnusd-level",
+    "href": "countries/MEX/index.html#mxnusd-level",
+    "title": "Mexico",
+    "section": "MXN/USD level",
+    "text": "MXN/USD level",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Mexico"
+    ]
+  },
+  {
+    "objectID": "countries/MEX/index.html#structural-breaks",
+    "href": "countries/MEX/index.html#structural-breaks",
+    "title": "Mexico",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1996-01-05\n52\n0.136\n0.442\n1.197\n0.361\n-1.131\n0.602\n10.731\n\n\n1996-01-12--1998-08-07\n135\n0.526\n0.083\n0.940\n0.129\n-0.125\n-0.086\n0.870\n\n\n1998-08-14--1999-02-05\n26\n0.308\n0.518\n2.799\n0.156\n0.306\n-2.056\n9.338\n\n\n1999-02-12--2008-09-26\n503\n0.690\n0.013\n1.021\n-0.120\n-0.129\n0.099\n1.026\n\n\n2008-10-03--2009-05-08\n32\n0.121\n0.273\n0.794\n-0.341\n-0.254\n-0.150\n9.168\n\n\n2009-05-15--2025-05-09\n835\n0.251\n0.051\n0.473\n-0.216\n0.183\n0.162\n2.163\n\n\n2025-05-16--2026-10-30\n77\n0.554\n-0.052\n0.163\n-0.271\n1.264\n-0.299\n0.500\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Mexico"
+    ]
+  },
+  {
+    "objectID": "countries/MEX/index.html#evolution-of-currency-weights",
+    "href": "countries/MEX/index.html#evolution-of-currency-weights",
+    "title": "Mexico",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Mexico"
+    ]
+  },
+  {
+    "objectID": "countries/LKA/index.html",
+    "href": "countries/LKA/index.html",
+    "title": "Sri Lanka",
+    "section": "",
+    "text": "Currency-basket weights for the LKR, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "South Asia",
+      "Sri Lanka"
+    ]
+  },
+  {
+    "objectID": "countries/LKA/index.html#lkrusd-level",
+    "href": "countries/LKA/index.html#lkrusd-level",
+    "title": "Sri Lanka",
+    "section": "LKR/USD level",
+    "text": "LKR/USD level",
+    "crumbs": [
+      "Home",
+      "South Asia",
+      "Sri Lanka"
+    ]
+  },
+  {
+    "objectID": "countries/LKA/index.html#structural-breaks",
+    "href": "countries/LKA/index.html#structural-breaks",
+    "title": "Sri Lanka",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--2002-04-19\n380\n0.751\n0.163\n0.921\n0.033\n0.060\n-0.064\n0.554\n\n\n2002-04-26--2003-08-15\n69\n0.996\n0.010\n1.011\n0.019\n0.008\n-0.022\n0.008\n\n\n2003-08-22--2005-02-04\n77\n0.811\n-0.019\n1.216\n0.081\n-0.085\n-0.170\n0.824\n\n\n2005-02-11--2006-08-18\n80\n0.989\n0.052\n0.980\n0.024\n0.013\n-0.040\n0.026\n\n\n2006-08-25--2009-05-22\n144\n0.944\n0.065\n0.903\n0.084\n-0.102\n0.070\n0.419\n\n\n2009-05-29--2011-11-18\n130\n0.993\n-0.028\n0.971\n0.008\n-0.002\n0.011\n0.024\n\n\n2011-11-25--2013-10-04\n98\n0.709\n0.167\n0.800\n0.057\n0.050\n0.068\n0.900\n\n\n2013-10-11--2015-08-28\n99\n0.992\n0.013\n1.004\n0.011\n0.017\n-0.042\n0.014\n\n\n2015-09-04--2022-02-25\n339\n0.813\n0.124\n0.871\n0.002\n0.147\n-0.051\n0.393\n\n\n2022-03-04--2023-08-04\n75\n0.288\n0.570\n0.924\n0.298\n-0.447\n0.855\n11.508\n\n\n2023-08-11--2026-10-30\n169\n0.825\n0.019\n0.936\n0.023\n-0.060\n0.031\n0.279\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "South Asia",
+      "Sri Lanka"
+    ]
+  },
+  {
+    "objectID": "countries/LKA/index.html#evolution-of-currency-weights",
+    "href": "countries/LKA/index.html#evolution-of-currency-weights",
+    "title": "Sri Lanka",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "South Asia",
+      "Sri Lanka"
+    ]
+  },
+  {
+    "objectID": "countries/KOR/index.html",
+    "href": "countries/KOR/index.html",
+    "title": "South Korea",
+    "section": "",
+    "text": "Currency-basket weights for the KRW, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "South Korea"
+    ]
+  },
+  {
+    "objectID": "countries/KOR/index.html#krwusd-level",
+    "href": "countries/KOR/index.html#krwusd-level",
+    "title": "South Korea",
+    "section": "KRW/USD level",
+    "text": "KRW/USD level",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "South Korea"
+    ]
+  },
+  {
+    "objectID": "countries/KOR/index.html#structural-breaks",
+    "href": "countries/KOR/index.html#structural-breaks",
+    "title": "South Korea",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1997-10-17\n145\n0.703\n0.094\n0.875\n0.103\n-0.065\n0.044\n0.246\n\n\n1997-10-24--1998-09-11\n47\n0.060\n0.591\n0.537\n0.116\n-1.733\n1.591\n47.142\n\n\n1998-09-18--2006-05-19\n401\n0.690\n-0.074\n0.578\n0.322\n-0.075\n0.038\n0.778\n\n\n2006-05-26--2008-02-29\n93\n0.913\n0.061\n0.715\n-0.082\n0.274\n0.008\n0.240\n\n\n2008-03-07--2010-07-16\n124\n0.280\n0.058\n0.657\n-0.399\n0.317\n0.023\n3.681\n\n\n2010-07-23--2026-10-30\n850\n0.488\n-0.009\n0.301\n0.114\n0.152\n0.140\n0.774\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "South Korea"
+    ]
+  },
+  {
+    "objectID": "countries/KOR/index.html#evolution-of-currency-weights",
+    "href": "countries/KOR/index.html#evolution-of-currency-weights",
+    "title": "South Korea",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "South Korea"
+    ]
+  },
+  {
+    "objectID": "countries/IRN/index.html",
+    "href": "countries/IRN/index.html",
+    "title": "Iran",
+    "section": "",
+    "text": "Currency-basket weights for the IRR, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2019-01-18.",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Iran"
+    ]
+  },
+  {
+    "objectID": "countries/IRN/index.html#irrusd-level",
+    "href": "countries/IRN/index.html#irrusd-level",
+    "title": "Iran",
+    "section": "IRR/USD level",
+    "text": "IRR/USD level",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Iran"
+    ]
+  },
+  {
+    "objectID": "countries/IRN/index.html#structural-breaks",
+    "href": "countries/IRN/index.html#structural-breaks",
+    "title": "Iran",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--2001-09-28\n345\n0.843\n-0.017\n0.747\n0.082\n0.152\n0.000\n0.338\n\n\n2001-10-05--2002-03-29\n26\n0.044\n6.600\n0.383\n-3.523\n6.862\n-3.404\n803.939\n\n\n2002-04-05--2005-01-21\n146\n0.909\n0.128\n0.815\n0.003\n0.182\n-0.026\n0.172\n\n\n2005-01-28--2007-11-16\n144\n1.000\n0.039\n0.973\n0.002\n0.027\n0.000\n0.001\n\n\n2007-11-23--2009-05-01\n76\n0.717\n0.067\n0.395\n0.257\n0.416\n0.208\n3.426\n\n\n2009-05-08--2011-06-03\n108\n0.913\n0.086\n0.783\n-0.011\n0.160\n0.072\n0.303\n\n\n2011-06-10--2012-06-08\n53\n0.171\n0.159\n2.077\n-0.986\n0.564\n-0.778\n23.870\n\n\n2012-06-15--2013-06-28\n54\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n2013-07-05--2013-12-27\n26\n0.053\n2.335\n-3.321\n2.533\n1.668\n-1.232\n169.004\n\n\n2014-01-03--2018-04-06\n222\n0.977\n0.188\n0.950\n0.004\n0.044\n0.001\n0.047\n\n\n2018-04-13--2019-01-18\n41\n0.482\n0.327\n1.258\n0.110\n0.482\n-0.505\n2.956\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Iran"
+    ]
+  },
+  {
+    "objectID": "countries/IRN/index.html#evolution-of-currency-weights",
+    "href": "countries/IRN/index.html#evolution-of-currency-weights",
+    "title": "Iran",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Iran"
+    ]
+  },
+  {
+    "objectID": "countries/IDN/index.html",
+    "href": "countries/IDN/index.html",
+    "title": "Indonesia",
+    "section": "",
+    "text": "Currency-basket weights for the IDR, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-02 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Indonesia"
+    ]
+  },
+  {
+    "objectID": "countries/IDN/index.html#idrusd-level",
+    "href": "countries/IDN/index.html#idrusd-level",
+    "title": "Indonesia",
+    "section": "IDR/USD level",
+    "text": "IDR/USD level",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Indonesia"
+    ]
+  },
+  {
+    "objectID": "countries/IDN/index.html#structural-breaks",
+    "href": "countries/IDN/index.html#structural-breaks",
+    "title": "Indonesia",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1995-07-07\n26\n0.542\n-0.016\n0.795\n-0.351\n0.219\n0.041\n0.587\n\n\n1995-07-14--1997-07-04\n104\n0.916\n0.089\n0.953\n0.005\n0.007\n-0.007\n0.053\n\n\n1997-07-11--1998-11-13\n71\n0.008\n1.187\n0.285\n-0.133\n-0.959\n0.529\n100.621\n\n\n1998-11-20--2001-11-23\n158\n0.090\n0.137\n0.761\n0.075\n0.052\n-0.307\n11.258\n\n\n2001-11-30--2008-10-03\n358\n0.664\n0.003\n0.694\n0.046\n0.081\n0.048\n0.931\n\n\n2008-10-10--2009-06-26\n38\n0.585\n0.238\n0.438\n0.195\n0.043\n0.031\n6.481\n\n\n2009-07-03--2013-07-12\n211\n0.850\n0.001\n0.747\n-0.027\n0.041\n0.061\n0.352\n\n\n2013-07-19--2016-01-01\n129\n0.359\n0.220\n0.676\n-0.021\n0.030\n0.021\n1.935\n\n\n2016-01-08--2020-02-21\n216\n0.706\n-0.008\n0.702\n-0.055\n0.194\n-0.070\n0.411\n\n\n2020-02-28--2020-09-18\n30\n0.134\n0.267\n0.492\n-0.123\n-0.561\n0.154\n2.678\n\n\n2020-09-25--2026-10-30\n319\n0.654\n0.047\n0.554\n0.040\n0.153\n0.061\n0.459\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Indonesia"
+    ]
+  },
+  {
+    "objectID": "countries/IDN/index.html#evolution-of-currency-weights",
+    "href": "countries/IDN/index.html#evolution-of-currency-weights",
+    "title": "Indonesia",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Indonesia"
+    ]
+  },
+  {
+    "objectID": "countries/DZA/index.html",
+    "href": "countries/DZA/index.html",
+    "title": "Algeria",
+    "section": "",
+    "text": "Currency-basket weights for the DZD, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-09-18.",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Algeria"
+    ]
+  },
+  {
+    "objectID": "countries/DZA/index.html#dzdusd-level",
+    "href": "countries/DZA/index.html#dzdusd-level",
+    "title": "Algeria",
+    "section": "DZD/USD level",
+    "text": "DZD/USD level",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Algeria"
+    ]
+  },
+  {
+    "objectID": "countries/DZA/index.html#structural-breaks",
+    "href": "countries/DZA/index.html#structural-breaks",
+    "title": "Algeria",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1995-07-14\n27\n0.314\n0.722\n0.474\n0.121\n0.275\n0.080\n0.869\n\n\n1995-07-21--2000-01-14\n235\n0.927\n0.067\n0.388\n0.013\n0.573\n0.014\n0.123\n\n\n2000-01-21--2001-09-14\n87\n0.610\n-0.004\n0.050\n0.160\n0.800\n-0.027\n1.470\n\n\n2001-09-21--2009-04-17\n396\n0.797\n0.005\n0.842\n-0.021\n0.197\n0.025\n0.942\n\n\n2009-04-24--2017-10-20\n444\n0.884\n0.097\n0.709\n-0.020\n0.309\n-0.046\n0.275\n\n\n2017-10-27--2020-03-06\n124\n0.984\n0.017\n0.611\n-0.017\n0.379\n0.016\n0.018\n\n\n2020-03-13--2022-12-02\n143\n0.915\n0.103\n0.817\n-0.033\n0.166\n-0.014\n0.179\n\n\n2022-12-09--2026-09-18\n198\n0.964\n-0.009\n0.695\n0.029\n0.286\n-0.026\n0.048\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Algeria"
+    ]
+  },
+  {
+    "objectID": "countries/DZA/index.html#evolution-of-currency-weights",
+    "href": "countries/DZA/index.html#evolution-of-currency-weights",
+    "title": "Algeria",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Algeria"
+    ]
+  },
+  {
+    "objectID": "countries/CHN/index.html",
+    "href": "countries/CHN/index.html",
+    "title": "China",
+    "section": "",
+    "text": "Currency-basket weights for the CNY, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "China"
+    ]
+  },
+  {
+    "objectID": "countries/CHN/index.html#cnyusd-level",
+    "href": "countries/CHN/index.html#cnyusd-level",
+    "title": "China",
+    "section": "CNY/USD level",
+    "text": "CNY/USD level",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "China"
+    ]
+  },
+  {
+    "objectID": "countries/CHN/index.html#structural-breaks",
+    "href": "countries/CHN/index.html#structural-breaks",
+    "title": "China",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1995-09-08\n35\n0.959\n-0.039\n1.049\n-0.012\n-0.003\n-0.065\n0.034\n\n\n1995-09-15--1998-02-27\n129\n0.999\n-0.002\n1.002\n0.000\n-0.005\n0.004\n0.001\n\n\n1998-03-06--1998-10-02\n31\n0.994\n-0.026\n1.029\n-0.008\n0.000\n-0.041\n0.021\n\n\n1998-10-09--2000-01-14\n67\n1.000\n0.000\n0.999\n0.000\n0.000\n0.000\n0.000\n\n\n2000-01-21--2004-04-02\n220\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n2004-04-09--2004-12-24\n38\n0.957\n0.003\n1.000\n0.044\n0.065\n-0.088\n0.118\n\n\n2004-12-31--2005-07-15\n29\n1.000\n0.000\n1.000\n0.000\n0.000\n0.001\n0.000\n\n\n2005-07-22--2009-01-09\n182\n0.990\n-0.101\n0.932\n0.015\n0.046\n-0.011\n0.051\n\n\n2009-01-16--2010-06-18\n75\n1.000\n-0.002\n0.985\n0.006\n0.007\n0.000\n0.001\n\n\n2010-06-25--2015-08-07\n268\n0.978\n-0.037\n0.930\n0.008\n0.023\n0.025\n0.056\n\n\n2015-08-14--2026-10-30\n586\n0.867\n0.006\n0.724\n0.049\n0.057\n0.075\n0.206\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "China"
+    ]
+  },
+  {
+    "objectID": "countries/CHN/index.html#evolution-of-currency-weights",
+    "href": "countries/CHN/index.html#evolution-of-currency-weights",
+    "title": "China",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "China"
+    ]
+  },
+  {
+    "objectID": "countries/BRN/index.html",
+    "href": "countries/BRN/index.html",
+    "title": "Brunei",
+    "section": "",
+    "text": "Currency-basket weights for the BND, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1998-09-04 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Brunei"
+    ]
+  },
+  {
+    "objectID": "countries/BRN/index.html#bndusd-level",
+    "href": "countries/BRN/index.html#bndusd-level",
+    "title": "Brunei",
+    "section": "BND/USD level",
+    "text": "BND/USD level",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Brunei"
+    ]
+  },
+  {
+    "objectID": "countries/BRN/index.html#structural-breaks",
+    "href": "countries/BRN/index.html#structural-breaks",
+    "title": "Brunei",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1998-09-11--2001-11-09\n166\n0.873\n0.019\n0.722\n0.132\n0.094\n-0.025\n0.317\n\n\n2001-11-16--2007-08-10\n300\n0.927\n-0.025\n0.600\n0.185\n0.129\n0.011\n0.126\n\n\n2007-08-17--2016-11-11\n482\n0.879\n-0.027\n0.542\n0.070\n0.173\n0.033\n0.323\n\n\n2016-11-18--2026-10-30\n516\n0.904\n-0.030\n0.471\n0.103\n0.175\n0.129\n0.101\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Brunei"
+    ]
+  },
+  {
+    "objectID": "countries/BRN/index.html#evolution-of-currency-weights",
+    "href": "countries/BRN/index.html#evolution-of-currency-weights",
+    "title": "Brunei",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Brunei"
+    ]
+  },
+  {
+    "objectID": "countries/BIH/index.html",
+    "href": "countries/BIH/index.html",
+    "title": "Bosnia & Herzegovina",
+    "section": "",
+    "text": "Currency-basket weights for the BAM, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1998-01-06 to 2026-09-30.",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Bosnia & Herzegovina"
+    ]
+  },
+  {
+    "objectID": "countries/BIH/index.html#bamusd-level",
+    "href": "countries/BIH/index.html#bamusd-level",
+    "title": "Bosnia & Herzegovina",
+    "section": "BAM/USD level",
+    "text": "BAM/USD level",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Bosnia & Herzegovina"
+    ]
+  },
+  {
+    "objectID": "countries/BIH/index.html#structural-breaks",
+    "href": "countries/BIH/index.html#structural-breaks",
+    "title": "Bosnia & Herzegovina",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1998-01-23--2002-09-20\n243\n0.716\n0.008\n0.299\n-0.039\n0.695\n0.036\n0.974\n\n\n2002-09-27--2007-12-07\n272\n0.819\n-0.026\n0.191\n0.014\n0.743\n0.020\n0.402\n\n\n2007-12-14--2016-07-01\n447\n0.628\n0.017\n0.203\n0.022\n0.689\n0.001\n1.358\n\n\n2016-07-08--2026-10-02\n535\n0.712\n-0.004\n0.201\n0.010\n0.750\n0.009\n0.411\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Bosnia & Herzegovina"
+    ]
+  },
+  {
+    "objectID": "countries/BIH/index.html#evolution-of-currency-weights",
+    "href": "countries/BIH/index.html#evolution-of-currency-weights",
+    "title": "Bosnia & Herzegovina",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Bosnia & Herzegovina"
+    ]
+  },
+  {
+    "objectID": "countries/BGR/index.html",
+    "href": "countries/BGR/index.html",
+    "title": "Bulgaria",
+    "section": "",
+    "text": "Currency-basket weights for the BGN, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-02 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Bulgaria"
+    ]
+  },
+  {
+    "objectID": "countries/BGR/index.html#bgnusd-level",
+    "href": "countries/BGR/index.html#bgnusd-level",
+    "title": "Bulgaria",
+    "section": "BGN/USD level",
+    "text": "BGN/USD level",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Bulgaria"
+    ]
+  },
+  {
+    "objectID": "countries/BGR/index.html#structural-breaks",
+    "href": "countries/BGR/index.html#structural-breaks",
+    "title": "Bulgaria",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--2026-03-06\n1626\n0.176\n0.195\n0.022\n0.041\n1.086\n-0.187\n9.507\n\n\n2026-03-13--2026-10-30\n34\n1.000\n0.000\n0.000\n0.000\n1.000\n0.000\n0.000\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Bulgaria"
+    ]
+  },
+  {
+    "objectID": "countries/BGR/index.html#evolution-of-currency-weights",
+    "href": "countries/BGR/index.html#evolution-of-currency-weights",
+    "title": "Bulgaria",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Bulgaria"
+    ]
+  },
+  {
+    "objectID": "countries/ARE/index.html",
+    "href": "countries/ARE/index.html",
+    "title": "United Arab Emirates",
+    "section": "",
+    "text": "Currency-basket weights for the AED, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "United Arab Emirates"
+    ]
+  },
+  {
+    "objectID": "countries/ARE/index.html#aedusd-level",
+    "href": "countries/ARE/index.html#aedusd-level",
+    "title": "United Arab Emirates",
+    "section": "AED/USD level",
+    "text": "AED/USD level",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "United Arab Emirates"
+    ]
+  },
+  {
+    "objectID": "countries/ARE/index.html#structural-breaks",
+    "href": "countries/ARE/index.html#structural-breaks",
+    "title": "United Arab Emirates",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1997-10-24\n146\n1\n0.000\n1\n0.000\n0.000\n0.000\n0\n\n\n1997-10-31--1998-04-24\n26\n1\n0.002\n1\n0.001\n-0.001\n0.001\n0\n\n\n1998-05-01--2026-10-30\n1487\n1\n0.000\n1\n0.000\n0.000\n0.000\n0\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "United Arab Emirates"
+    ]
+  },
+  {
+    "objectID": "countries/ARE/index.html#evolution-of-currency-weights",
+    "href": "countries/ARE/index.html#evolution-of-currency-weights",
+    "title": "United Arab Emirates",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "United Arab Emirates"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The exchange rate is one of the most important prices in an economy. It acts as an automatic stabiliser and affects all aspects of finance, from trade to foreign flows. Macro traders, central bankers and other finance professionals are therefore interested in the de facto exchange rate decisions of central banks, which can differ from the regime a country announces (Calvo and Reinhart 2002; Ilzetzki, Reinhart, and Rogoff 2022).\nSharma, Sengupta, and Shah (2026) implement the methodology developed in Zeileis, Shah, and Patnaik (2010) for 41 emerging market economies, revealing the de facto behaviour of central banks in FX markets. This website operationalises that work and keeps it up to date."
+  },
+  {
+    "objectID": "about.html#introduction",
+    "href": "about.html#introduction",
+    "title": "About",
+    "section": "",
+    "text": "The exchange rate is one of the most important prices in an economy. It acts as an automatic stabiliser and affects all aspects of finance, from trade to foreign flows. Macro traders, central bankers and other finance professionals are therefore interested in the de facto exchange rate decisions of central banks, which can differ from the regime a country announces (Calvo and Reinhart 2002; Ilzetzki, Reinhart, and Rogoff 2022).\nSharma, Sengupta, and Shah (2026) implement the methodology developed in Zeileis, Shah, and Patnaik (2010) for 41 emerging market economies, revealing the de facto behaviour of central banks in FX markets. This website operationalises that work and keeps it up to date."
+  },
+  {
+    "objectID": "about.html#methodology",
+    "href": "about.html#methodology",
+    "title": "About",
+    "section": "Methodology",
+    "text": "Methodology\nFollowing Zeileis, Shah, and Patnaik (2010), the de facto regime of a currency is inferred by regressing its returns on the returns of a basket of major currencies, with all rates measured against a neutral numeraire currency, as in Frankel and Wei (1994). The coefficients are the basket weights: a weight on the US dollar close to one with a high \\(R^2\\) points to a dollar peg, while small weights and a low \\(R^2\\) point to a float.\nThe weights are allowed to change over time. Structural break dates are estimated with the multiple-break framework of Bai and Perron (1998), as implemented in the fxregime R package, and the number of breaks is chosen by the BIC. Each stretch between two breaks is a regime, and for each regime the site reports the estimated weights, the \\(R^2\\) and the residual variance.\nDefault settings used on this website:\n\nweekly exchange rate returns, from the bilateral exchange rates published by the BIS (Bank for International Settlements 2026);\nnumeraire: New Zealand dollar;\nbasket currencies: USD, JPY, EUR and GBP (a country’s own currency is dropped from its basket);\nminimum regime length of 26 weeks and at most 10 breaks, with the number of breaks chosen by BIC.\n\nEvery country page lets you download the exact R script and input data used, so each result can be reproduced. Earlier applications of this approach to the role of the renminbi as an anchor currency include Balasubramaniam, Patnaik, and Shah (2011) and Hari Kumar et al. (2020)."
+  },
+  {
+    "objectID": "about.html#objectives",
+    "href": "about.html#objectives",
+    "title": "About",
+    "section": "Objectives",
+    "text": "Objectives\n\nOperationalise the framework of Sharma, Sengupta, and Shah (2026) to build a continuously updating website that shows the exchange rate regimes (ERRs) of emerging markets.\nShow the structural break dates of past regimes for an emerging market currency.\nProvide a live monitoring system, based on empirical fluctuation processes (efp), that alerts users when there is a potential regime change (Zeileis, Shah, and Patnaik 2010).\nReveal the weights of the basket currencies over time, using exchange rate regressions.\nAllow charts and datasets to be downloaded directly from the website.\nImplement the framework for all emerging market currencies available in the BIS data (Bank for International Settlements 2026)."
+  },
+  {
+    "objectID": "about.html#intended-outcomes",
+    "href": "about.html#intended-outcomes",
+    "title": "About",
+    "section": "Intended outcomes",
+    "text": "Intended outcomes\n\nA practical website for macro traders, central bankers and other finance professionals whose day-to-day work involves understanding currencies.\nMake the framework of Zeileis, Shah, and Patnaik (2010) accessible to a wide audience, from students of finance and economics to FX specialists making business decisions in firms.\nMake ERR-related data, such as break dates, \\(R^2\\), residual standard error and basket weights, easily available to other researchers.\nA “living” website that updates on its own, without human intervention, and stays available to anyone interested."
+  },
+  {
+    "objectID": "about.html#references",
+    "href": "about.html#references",
+    "title": "About",
+    "section": "References",
+    "text": "References\n\n\nBai, Jushan, and Pierre Perron. 1998. “Estimating and Testing Linear Models with Multiple Structural Changes.” Econometrica, 47–78.\n\n\nBalasubramaniam, Vimal, Ila Patnaik, and Ajay Shah. 2011. “Who Cares about the Chinese Yuan?” Working Paper. New Delhi, India: National Institute of Public Finance and Policy.\n\n\nBank for International Settlements. 2026. “Bilateral Exchange Rates.” https://data.bis.org/topics/XRU/data.\n\n\nCalvo, Guillermo A, and Carmen M Reinhart. 2002. “Fear of Floating.” The Quarterly Journal of Economics 117 (2): 379–408.\n\n\nFrankel, Jeffrey A, and Shang-Jin Wei. 1994. “Yen Bloc or Dollar Bloc? Exchange Rate Policies of the East Asian Economies.” In Macroeconomic Linkage: Savings, Exchange Rates, and Capital Flows, 295–333. University of Chicago Press.\n\n\nHari Kumar, Shekhar, Vimal Balasubramaniam, Ila Patnaik, and Ajay Shah. 2020. “Who Cares about the Renminbi?” 2020 Papers. Job Market Papers. https://EconPapers.repec.org/RePEc:jmp:jm2020:pha1373.\n\n\nIlzetzki, Ethan, Carmen M Reinhart, and Kenneth S Rogoff. 2022. “Rethinking Exchange Rate Regimes.” In Handbook of International Economics, 6:91–145. Elsevier.\n\n\nSharma, Anjali, Rajeswari Sengupta, and Ajay Shah. 2026. “Exchange Rate Regime Durability in a Turbulent World.” XKDR Forum.\n\n\nZeileis, Achim, Ajay Shah, and Ila Patnaik. 2010. “Testing, Monitoring, and Dating Structural Changes in Exchange Rate Regimes.” Computational Statistics & Data Analysis 54 (6): 1696–706."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EMDE Homepage",
+    "section": "",
+    "text": "Welcome to the EMDE project website. Each cell below shows the explanatory power (R²) of the currency-basket regression within one estimated exchange-rate regime. Use the sidebar to open a country page, or see About for the methodology and references.\n\n\n\n\n\n\n\nDownload all regimes as CSV"
+  },
+  {
+    "objectID": "countries/ALB/index.html",
+    "href": "countries/ALB/index.html",
+    "title": "Albania",
+    "section": "",
+    "text": "Currency-basket weights for the ALL, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1998-12-01 to 2026-10-26.",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Albania"
+    ]
+  },
+  {
+    "objectID": "countries/ALB/index.html#allusd-level",
+    "href": "countries/ALB/index.html#allusd-level",
+    "title": "Albania",
+    "section": "ALL/USD level",
+    "text": "ALL/USD level",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Albania"
+    ]
+  },
+  {
+    "objectID": "countries/ALB/index.html#structural-breaks",
+    "href": "countries/ALB/index.html#structural-breaks",
+    "title": "Albania",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1998-12-11--2004-07-23\n294\n0.748\n-0.102\n0.533\n-0.053\n0.398\n0.123\n0.617\n\n\n2004-07-30--2012-09-28\n427\n0.893\n0.029\n0.159\n-0.005\n0.836\n-0.022\n0.325\n\n\n2012-10-05--2015-03-13\n128\n0.964\n0.018\n0.113\n0.000\n0.900\n0.000\n0.065\n\n\n2015-03-20--2022-11-04\n399\n0.858\n-0.040\n0.163\n0.018\n0.828\n-0.010\n0.234\n\n\n2022-11-11--2024-04-12\n75\n0.487\n-0.177\n-0.116\n-0.154\n1.602\n-0.303\n1.571\n\n\n2024-04-19--2026-10-30\n133\n0.875\n-0.086\n-0.013\n0.008\n0.969\n-0.002\n0.110\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Albania"
+    ]
+  },
+  {
+    "objectID": "countries/ALB/index.html#evolution-of-currency-weights",
+    "href": "countries/ALB/index.html#evolution-of-currency-weights",
+    "title": "Albania",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Albania"
+    ]
+  },
+  {
+    "objectID": "countries/ARG/index.html",
+    "href": "countries/ARG/index.html",
+    "title": "Argentina",
+    "section": "",
+    "text": "Currency-basket weights for the ARS, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-02 to 2026-10-21.",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Argentina"
+    ]
+  },
+  {
+    "objectID": "countries/ARG/index.html#arsusd-level",
+    "href": "countries/ARG/index.html#arsusd-level",
+    "title": "Argentina",
+    "section": "ARS/USD level",
+    "text": "ARS/USD level",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Argentina"
+    ]
+  },
+  {
+    "objectID": "countries/ARG/index.html#structural-breaks",
+    "href": "countries/ARG/index.html#structural-breaks",
+    "title": "Argentina",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1995-07-07\n26\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n1995-07-14--1996-01-05\n26\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n1996-01-12--2026-10-23\n1603\n0.199\n0.459\n0.991\n-0.086\n0.137\n-0.068\n10.183\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Argentina"
+    ]
+  },
+  {
+    "objectID": "countries/ARG/index.html#evolution-of-currency-weights",
+    "href": "countries/ARG/index.html#evolution-of-currency-weights",
+    "title": "Argentina",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Argentina"
+    ]
+  },
+  {
+    "objectID": "countries/BHR/index.html",
+    "href": "countries/BHR/index.html",
+    "title": "Bahrain",
+    "section": "",
+    "text": "Currency-basket weights for the BHD, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2019-01-25.",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Bahrain"
+    ]
+  },
+  {
+    "objectID": "countries/BHR/index.html#bhdusd-level",
+    "href": "countries/BHR/index.html#bhdusd-level",
+    "title": "Bahrain",
+    "section": "BHD/USD level",
+    "text": "BHD/USD level",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Bahrain"
+    ]
+  },
+  {
+    "objectID": "countries/BHR/index.html#structural-breaks",
+    "href": "countries/BHR/index.html#structural-breaks",
+    "title": "Bahrain",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--2019-01-25\n1254\n1\n0\n1\n0\n0\n0\n0\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Bahrain"
+    ]
+  },
+  {
+    "objectID": "countries/BHR/index.html#evolution-of-currency-weights",
+    "href": "countries/BHR/index.html#evolution-of-currency-weights",
+    "title": "Bahrain",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Bahrain"
+    ]
+  },
+  {
+    "objectID": "countries/BRA/index.html",
+    "href": "countries/BRA/index.html",
+    "title": "Brazil",
+    "section": "",
+    "text": "Currency-basket weights for the BRL, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-02 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Brazil"
+    ]
+  },
+  {
+    "objectID": "countries/BRA/index.html#brlusd-level",
+    "href": "countries/BRA/index.html#brlusd-level",
+    "title": "Brazil",
+    "section": "BRL/USD level",
+    "text": "BRL/USD level",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Brazil"
+    ]
+  },
+  {
+    "objectID": "countries/BRA/index.html#structural-breaks",
+    "href": "countries/BRA/index.html#structural-breaks",
+    "title": "Brazil",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1995-08-25\n33\n0.665\n0.320\n1.085\n-0.136\n-0.136\n0.249\n0.660\n\n\n1995-09-01--1999-01-08\n176\n0.980\n0.137\n0.990\n-0.010\n-0.006\n0.001\n0.031\n\n\n1999-01-15--2000-02-18\n58\n0.041\n0.524\n0.154\n0.578\n0.104\n-0.690\n29.218\n\n\n2000-02-25--2001-06-08\n68\n0.678\n0.396\n0.871\n0.018\n0.136\n-0.095\n1.181\n\n\n2001-06-15--2003-04-04\n95\n0.118\n0.330\n0.542\n0.204\n-0.863\n0.712\n10.554\n\n\n2003-04-11--2026-10-30\n1230\n0.170\n0.047\n0.460\n-0.248\n0.254\n0.075\n3.222\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Brazil"
+    ]
+  },
+  {
+    "objectID": "countries/BRA/index.html#evolution-of-currency-weights",
+    "href": "countries/BRA/index.html#evolution-of-currency-weights",
+    "title": "Brazil",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Brazil"
+    ]
+  },
+  {
+    "objectID": "countries/CHL/index.html",
+    "href": "countries/CHL/index.html",
+    "title": "Chile",
+    "section": "",
+    "text": "Currency-basket weights for the CLP, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-02 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Chile"
+    ]
+  },
+  {
+    "objectID": "countries/CHL/index.html#clpusd-level",
+    "href": "countries/CHL/index.html#clpusd-level",
+    "title": "Chile",
+    "section": "CLP/USD level",
+    "text": "CLP/USD level",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Chile"
+    ]
+  },
+  {
+    "objectID": "countries/CHL/index.html#structural-breaks",
+    "href": "countries/CHL/index.html#structural-breaks",
+    "title": "Chile",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--2001-06-29\n338\n0.702\n0.115\n0.908\n0.036\n-0.001\n-0.046\n0.632\n\n\n2001-07-06--2019-11-01\n957\n0.441\n0.033\n0.643\n-0.021\n0.134\n-0.043\n1.840\n\n\n2019-11-08--2026-10-30\n365\n0.142\n0.083\n0.109\n-0.041\n0.557\n0.090\n3.119\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Chile"
+    ]
+  },
+  {
+    "objectID": "countries/CHL/index.html#evolution-of-currency-weights",
+    "href": "countries/CHL/index.html#evolution-of-currency-weights",
+    "title": "Chile",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Chile"
+    ]
+  },
+  {
+    "objectID": "countries/COL/index.html",
+    "href": "countries/COL/index.html",
+    "title": "Colombia",
+    "section": "",
+    "text": "Currency-basket weights for the COP, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-02 to 2026-10-23.",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Colombia"
+    ]
+  },
+  {
+    "objectID": "countries/COL/index.html#copusd-level",
+    "href": "countries/COL/index.html#copusd-level",
+    "title": "Colombia",
+    "section": "COP/USD level",
+    "text": "COP/USD level",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Colombia"
+    ]
+  },
+  {
+    "objectID": "countries/COL/index.html#structural-breaks",
+    "href": "countries/COL/index.html#structural-breaks",
+    "title": "Colombia",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--2005-06-17\n545\n0.633\n0.193\n0.972\n-0.011\n-0.167\n0.109\n1.069\n\n\n2005-06-24--2006-03-24\n40\n0.974\n-0.091\n0.957\n0.023\n-0.078\n0.059\n0.062\n\n\n2006-03-31--2010-02-12\n203\n0.452\n-0.034\n0.771\n-0.180\n0.552\n-0.353\n4.024\n\n\n2010-02-19--2014-10-31\n246\n0.577\n0.043\n0.665\n-0.103\n0.010\n0.212\n1.076\n\n\n2014-11-07--2026-10-23\n625\n0.147\n0.047\n0.294\n-0.054\n0.202\n0.269\n3.710\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Colombia"
+    ]
+  },
+  {
+    "objectID": "countries/COL/index.html#evolution-of-currency-weights",
+    "href": "countries/COL/index.html#evolution-of-currency-weights",
+    "title": "Colombia",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Colombia"
+    ]
+  },
+  {
+    "objectID": "countries/HUN/index.html",
+    "href": "countries/HUN/index.html",
+    "title": "Hungary",
+    "section": "",
+    "text": "Currency-basket weights for the HUF, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-02 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Hungary"
+    ]
+  },
+  {
+    "objectID": "countries/HUN/index.html#hufusd-level",
+    "href": "countries/HUN/index.html#hufusd-level",
+    "title": "Hungary",
+    "section": "HUF/USD level",
+    "text": "HUF/USD level",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Hungary"
+    ]
+  },
+  {
+    "objectID": "countries/HUN/index.html#structural-breaks",
+    "href": "countries/HUN/index.html#structural-breaks",
+    "title": "Hungary",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1995-07-07\n26\n0.268\n0.543\n0.015\n-0.051\n0.123\n0.874\n2.762\n\n\n1995-07-14--1996-12-27\n77\n0.952\n0.281\n0.315\n0.022\n0.629\n0.044\n0.039\n\n\n1997-01-03--1999-12-10\n154\n0.884\n0.159\n0.247\n0.010\n0.758\n-0.076\n0.250\n\n\n1999-12-17--2001-04-27\n72\n0.992\n0.074\n0.026\n-0.016\n0.990\n-0.014\n0.021\n\n\n2001-05-04--2008-02-01\n353\n0.637\n0.007\n-0.069\n-0.074\n0.941\n0.082\n0.959\n\n\n2008-02-08--2013-06-28\n282\n0.544\n0.029\n-0.248\n-0.245\n1.308\n-0.027\n2.142\n\n\n2013-07-05--2020-03-13\n350\n0.760\n0.031\n-0.143\n-0.003\n1.061\n-0.001\n0.452\n\n\n2020-03-20--2026-10-30\n346\n0.555\n0.040\n-0.337\n-0.176\n1.677\n-0.186\n1.142\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Hungary"
+    ]
+  },
+  {
+    "objectID": "countries/HUN/index.html#evolution-of-currency-weights",
+    "href": "countries/HUN/index.html#evolution-of-currency-weights",
+    "title": "Hungary",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Hungary"
+    ]
+  },
+  {
+    "objectID": "countries/IND/index.html",
+    "href": "countries/IND/index.html",
+    "title": "India",
+    "section": "",
+    "text": "Currency-basket weights for the INR, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "South Asia",
+      "India"
+    ]
+  },
+  {
+    "objectID": "countries/IND/index.html#inrusd-level",
+    "href": "countries/IND/index.html#inrusd-level",
+    "title": "India",
+    "section": "INR/USD level",
+    "text": "INR/USD level",
+    "crumbs": [
+      "Home",
+      "South Asia",
+      "India"
+    ]
+  },
+  {
+    "objectID": "countries/IND/index.html#structural-breaks",
+    "href": "countries/IND/index.html#structural-breaks",
+    "title": "India",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1995-08-25\n33\n0.854\n0.041\n0.919\n-0.063\n0.105\n-0.008\n0.124\n\n\n1995-09-01--1996-08-09\n50\n0.484\n0.114\n1.363\n0.390\n-0.693\n0.318\n1.481\n\n\n1996-08-16--1997-08-15\n53\n0.947\n0.012\n1.037\n-0.006\n-0.051\n0.031\n0.040\n\n\n1997-08-22--1998-08-21\n53\n0.690\n0.368\n0.731\n0.049\n0.271\n0.028\n1.056\n\n\n1998-08-28--2004-03-19\n291\n0.969\n0.023\n0.970\n-0.001\n-0.013\n0.002\n0.073\n\n\n2004-03-26--2007-03-16\n156\n0.897\n-0.028\n0.741\n0.224\n-0.032\n0.043\n0.242\n\n\n2007-03-23--2013-12-13\n352\n0.713\n0.110\n0.582\n0.008\n0.164\n0.014\n0.987\n\n\n2013-12-20--2023-08-25\n506\n0.782\n0.045\n0.804\n-0.011\n-0.006\n0.096\n0.415\n\n\n2023-09-01--2024-12-20\n69\n0.977\n0.038\n0.894\n-0.012\n0.051\n0.047\n0.030\n\n\n2024-12-27--2026-10-30\n97\n0.741\n0.137\n0.777\n-0.053\n0.081\n0.244\n0.449\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "South Asia",
+      "India"
+    ]
+  },
+  {
+    "objectID": "countries/IND/index.html#evolution-of-currency-weights",
+    "href": "countries/IND/index.html#evolution-of-currency-weights",
+    "title": "India",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "South Asia",
+      "India"
+    ]
+  },
+  {
+    "objectID": "countries/KAZ/index.html",
+    "href": "countries/KAZ/index.html",
+    "title": "Kazakhstan",
+    "section": "",
+    "text": "Currency-basket weights for the KZT, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 2006-04-03 to 2019-03-29.",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Kazakhstan"
+    ]
+  },
+  {
+    "objectID": "countries/KAZ/index.html#kztusd-level",
+    "href": "countries/KAZ/index.html#kztusd-level",
+    "title": "Kazakhstan",
+    "section": "KZT/USD level",
+    "text": "KZT/USD level",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Kazakhstan"
+    ]
+  },
+  {
+    "objectID": "countries/KAZ/index.html#structural-breaks",
+    "href": "countries/KAZ/index.html#structural-breaks",
+    "title": "Kazakhstan",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n2006-04-14--2007-09-21\n76\n0.849\n-0.059\n0.864\n0.040\n0.179\n-0.094\n0.666\n\n\n2007-09-28--2009-01-02\n67\n0.997\n-0.015\n0.972\n0.026\n-0.038\n0.037\n0.024\n\n\n2009-01-09--2009-07-03\n26\n0.488\n0.593\n0.723\n0.238\n0.553\n-0.292\n14.621\n\n\n2009-07-10--2014-02-07\n240\n0.987\n0.014\n1.000\n-0.020\n0.003\n0.022\n0.038\n\n\n2014-02-14--2014-08-08\n26\n0.570\n0.288\n4.500\n-0.520\n-0.148\n-3.928\n5.872\n\n\n2014-08-15--2015-08-14\n53\n0.994\n0.064\n1.007\n-0.031\n0.029\n-0.006\n0.014\n\n\n2015-08-21--2016-02-19\n27\n0.207\n2.255\n2.025\n-0.511\n0.381\n-0.312\n39.429\n\n\n2016-02-26--2019-03-29\n155\n0.444\n0.051\n0.694\n-0.039\n0.221\n-0.055\n1.315\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Kazakhstan"
+    ]
+  },
+  {
+    "objectID": "countries/KAZ/index.html#evolution-of-currency-weights",
+    "href": "countries/KAZ/index.html#evolution-of-currency-weights",
+    "title": "Kazakhstan",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Kazakhstan"
+    ]
+  },
+  {
+    "objectID": "countries/KWT/index.html",
+    "href": "countries/KWT/index.html",
+    "title": "Kuwait",
+    "section": "",
+    "text": "Currency-basket weights for the KWD, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Kuwait"
+    ]
+  },
+  {
+    "objectID": "countries/KWT/index.html#kwdusd-level",
+    "href": "countries/KWT/index.html#kwdusd-level",
+    "title": "Kuwait",
+    "section": "KWD/USD level",
+    "text": "KWD/USD level",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Kuwait"
+    ]
+  },
+  {
+    "objectID": "countries/KWT/index.html#structural-breaks",
+    "href": "countries/KWT/index.html#structural-breaks",
+    "title": "Kuwait",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1995-10-06\n39\n0.909\n0.042\n0.772\n0.001\n0.230\n-0.038\n0.062\n\n\n1995-10-13--2003-11-14\n416\n0.996\n-0.006\n0.833\n0.045\n0.069\n0.051\n0.007\n\n\n2003-11-21--2004-07-09\n34\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n2004-07-16--2005-01-07\n26\n0.992\n-0.058\n1.064\n0.056\n-0.097\n0.003\n0.020\n\n\n2005-01-14--2006-04-28\n67\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n2006-05-05--2006-10-27\n26\n0.993\n-0.055\n0.939\n0.121\n-0.066\n0.039\n0.017\n\n\n2006-11-03--2007-05-18\n28\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n2007-05-25--2012-11-09\n285\n0.980\n-0.007\n0.845\n0.031\n0.102\n0.012\n0.105\n\n\n2012-11-16--2016-07-01\n188\n0.988\n0.020\n0.839\n0.069\n0.079\n0.024\n0.026\n\n\n2016-07-15--2020-04-10\n193\n0.993\n0.008\n0.856\n0.029\n0.062\n0.035\n0.010\n\n\n2020-04-17--2026-10-30\n334\n0.998\n-0.003\n0.874\n0.026\n0.074\n0.022\n0.004\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Kuwait"
+    ]
+  },
+  {
+    "objectID": "countries/KWT/index.html#evolution-of-currency-weights",
+    "href": "countries/KWT/index.html#evolution-of-currency-weights",
+    "title": "Kuwait",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Kuwait"
+    ]
+  },
+  {
+    "objectID": "countries/MAR/index.html",
+    "href": "countries/MAR/index.html",
+    "title": "Morocco",
+    "section": "",
+    "text": "Currency-basket weights for the MAD, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1996-04-01 to 2026-08-28.",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Morocco"
+    ]
+  },
+  {
+    "objectID": "countries/MAR/index.html#madusd-level",
+    "href": "countries/MAR/index.html#madusd-level",
+    "title": "Morocco",
+    "section": "MAD/USD level",
+    "text": "MAD/USD level",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Morocco"
+    ]
+  },
+  {
+    "objectID": "countries/MAR/index.html#structural-breaks",
+    "href": "countries/MAR/index.html#structural-breaks",
+    "title": "Morocco",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1996-04-12--1996-11-29\n34\n0.988\n-0.007\n0.180\n0.041\n0.763\n-0.042\n0.008\n\n\n1996-12-06--2000-12-08\n210\n0.960\n0.006\n0.340\n0.035\n0.579\n0.062\n0.086\n\n\n2000-12-15--2001-06-08\n26\n0.739\n0.224\n0.341\n0.093\n0.588\n0.072\n0.837\n\n\n2001-06-15--2004-01-23\n137\n0.989\n0.001\n0.222\n-0.006\n0.769\n-0.002\n0.018\n\n\n2004-01-30--2008-03-28\n218\n0.971\n0.000\n0.185\n-0.032\n0.848\n0.014\n0.068\n\n\n2008-04-04--2008-10-03\n27\n1.000\n0.000\n0.165\n0.002\n0.836\n-0.004\n0.000\n\n\n2008-10-10--2009-06-05\n35\n1.000\n0.000\n0.181\n-0.001\n0.822\n-0.001\n0.000\n\n\n2009-06-12--2015-04-10\n305\n0.991\n-0.002\n0.174\n0.001\n0.819\n0.006\n0.018\n\n\n2015-04-17--2018-12-07\n191\n0.993\n-0.009\n0.396\n-0.009\n0.601\n0.007\n0.011\n\n\n2018-12-14--2026-08-28\n403\n0.836\n-0.008\n0.398\n0.037\n0.569\n-0.035\n0.217\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Morocco"
+    ]
+  },
+  {
+    "objectID": "countries/MAR/index.html#evolution-of-currency-weights",
+    "href": "countries/MAR/index.html#evolution-of-currency-weights",
+    "title": "Morocco",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Morocco"
+    ]
+  },
+  {
+    "objectID": "countries/MKD/index.html",
+    "href": "countries/MKD/index.html",
+    "title": "North Macedonia",
+    "section": "",
+    "text": "Currency-basket weights for the MKD, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-10-21.",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "North Macedonia"
+    ]
+  },
+  {
+    "objectID": "countries/MKD/index.html#mkdusd-level",
+    "href": "countries/MKD/index.html#mkdusd-level",
+    "title": "North Macedonia",
+    "section": "MKD/USD level",
+    "text": "MKD/USD level",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "North Macedonia"
+    ]
+  },
+  {
+    "objectID": "countries/MKD/index.html#structural-breaks",
+    "href": "countries/MKD/index.html#structural-breaks",
+    "title": "North Macedonia",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1997-06-13\n126\n0.577\n0.043\n0.050\n0.036\n0.820\n0.050\n0.809\n\n\n1997-06-20--1997-12-12\n26\n0.129\n0.448\n0.060\n-0.656\n1.181\n-0.409\n8.083\n\n\n1997-12-19--2001-10-19\n201\n0.719\n0.030\n0.271\n0.053\n0.840\n-0.124\n1.070\n\n\n2001-10-26--2007-12-07\n320\n0.817\n-0.025\n0.185\n0.008\n0.757\n0.024\n0.403\n\n\n2007-12-14--2016-07-01\n447\n0.683\n0.013\n0.150\n0.025\n0.792\n0.007\n1.173\n\n\n2016-07-08--2026-10-23\n538\n0.726\n-0.004\n0.200\n0.023\n0.746\n0.001\n0.384\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "North Macedonia"
+    ]
+  },
+  {
+    "objectID": "countries/MKD/index.html#evolution-of-currency-weights",
+    "href": "countries/MKD/index.html#evolution-of-currency-weights",
+    "title": "North Macedonia",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "North Macedonia"
+    ]
+  },
+  {
+    "objectID": "countries/MYS/index.html",
+    "href": "countries/MYS/index.html",
+    "title": "Malaysia",
+    "section": "",
+    "text": "Currency-basket weights for the MYR, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Malaysia"
+    ]
+  },
+  {
+    "objectID": "countries/MYS/index.html#myrusd-level",
+    "href": "countries/MYS/index.html#myrusd-level",
+    "title": "Malaysia",
+    "section": "MYR/USD level",
+    "text": "MYR/USD level",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Malaysia"
+    ]
+  },
+  {
+    "objectID": "countries/MYS/index.html#structural-breaks",
+    "href": "countries/MYS/index.html#structural-breaks",
+    "title": "Malaysia",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1997-07-11\n131\n0.823\n-0.029\n0.920\n0.134\n-0.009\n-0.067\n0.129\n\n\n1997-07-18--1998-09-04\n60\n0.084\n0.157\n-1.112\n0.232\n0.365\n0.556\n16.332\n\n\n1998-09-11--1999-08-13\n49\n0.998\n-0.001\n0.994\n-0.005\n0.012\n-0.010\n0.004\n\n\n1999-08-20--2000-02-11\n26\n0.933\n-0.009\n0.740\n0.097\n0.006\n0.090\n0.137\n\n\n2000-02-18--2003-11-28\n198\n0.996\n-0.001\n0.990\n0.007\n-0.006\n0.013\n0.009\n\n\n2003-12-05--2004-05-28\n26\n0.989\n0.009\n0.973\n0.051\n0.011\n0.030\n0.054\n\n\n2004-06-04--2005-07-15\n59\n1.000\n-0.001\n1.005\n-0.003\n0.011\n-0.009\n0.001\n\n\n2005-07-22--2010-01-01\n233\n0.932\n-0.025\n0.700\n-0.016\n0.244\n-0.006\n0.291\n\n\n2010-01-08--2015-07-31\n291\n0.655\n0.027\n0.504\n-0.025\n0.014\n0.238\n0.646\n\n\n2015-08-07--2016-11-11\n67\n0.250\n0.249\n0.456\n-0.276\n0.421\n-0.164\n2.178\n\n\n2016-11-18--2026-10-30\n520\n0.727\n-0.027\n0.503\n0.109\n0.091\n0.095\n0.319\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Malaysia"
+    ]
+  },
+  {
+    "objectID": "countries/MYS/index.html#evolution-of-currency-weights",
+    "href": "countries/MYS/index.html#evolution-of-currency-weights",
+    "title": "Malaysia",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Malaysia"
+    ]
+  },
+  {
+    "objectID": "countries/OMN/index.html",
+    "href": "countries/OMN/index.html",
+    "title": "Oman",
+    "section": "",
+    "text": "Currency-basket weights for the OMR, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Oman"
+    ]
+  },
+  {
+    "objectID": "countries/OMN/index.html#omrusd-level",
+    "href": "countries/OMN/index.html#omrusd-level",
+    "title": "Oman",
+    "section": "OMR/USD level",
+    "text": "OMR/USD level",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Oman"
+    ]
+  },
+  {
+    "objectID": "countries/OMN/index.html#structural-breaks",
+    "href": "countries/OMN/index.html#structural-breaks",
+    "title": "Oman",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--2026-10-30\n1649\n1\n0\n1\n0\n0\n0\n0\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Oman"
+    ]
+  },
+  {
+    "objectID": "countries/OMN/index.html#evolution-of-currency-weights",
+    "href": "countries/OMN/index.html#evolution-of-currency-weights",
+    "title": "Oman",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Oman"
+    ]
+  },
+  {
+    "objectID": "countries/PER/index.html",
+    "href": "countries/PER/index.html",
+    "title": "Peru",
+    "section": "",
+    "text": "Currency-basket weights for the PEN, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-02 to 2026-10-26.",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Peru"
+    ]
+  },
+  {
+    "objectID": "countries/PER/index.html#penusd-level",
+    "href": "countries/PER/index.html#penusd-level",
+    "title": "Peru",
+    "section": "PEN/USD level",
+    "text": "PEN/USD level",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Peru"
+    ]
+  },
+  {
+    "objectID": "countries/PER/index.html#structural-breaks",
+    "href": "countries/PER/index.html#structural-breaks",
+    "title": "Peru",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--2003-01-03\n417\n0.863\n0.111\n1.020\n-0.016\n-0.020\n-0.046\n0.291\n\n\n2003-01-10--2005-01-28\n108\n0.975\n-0.066\n0.995\n-0.002\n-0.045\n0.038\n0.064\n\n\n2005-02-04--2005-08-19\n29\n0.999\n-0.007\n0.997\n0.000\n0.022\n-0.011\n0.003\n\n\n2005-08-26--2006-05-26\n40\n0.839\n0.045\n1.074\n-0.081\n-0.114\n0.227\n0.551\n\n\n2006-06-02--2007-09-07\n67\n0.991\n-0.043\n0.951\n-0.016\n0.088\n-0.031\n0.031\n\n\n2007-09-14--2009-08-07\n100\n0.832\n-0.086\n0.929\n-0.119\n0.144\n-0.031\n1.216\n\n\n2009-08-14--2013-04-19\n193\n0.954\n-0.060\n0.920\n-0.028\n0.032\n0.022\n0.131\n\n\n2013-04-26--2020-02-21\n357\n0.807\n0.062\n0.823\n-0.042\n0.093\n0.012\n0.349\n\n\n2020-02-28--2026-10-30\n349\n0.572\n0.005\n0.708\n-0.036\n0.150\n0.040\n0.931\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Peru"
+    ]
+  },
+  {
+    "objectID": "countries/PER/index.html#evolution-of-currency-weights",
+    "href": "countries/PER/index.html#evolution-of-currency-weights",
+    "title": "Peru",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Peru"
+    ]
+  },
+  {
+    "objectID": "countries/POL/index.html",
+    "href": "countries/POL/index.html",
+    "title": "Poland",
+    "section": "",
+    "text": "Currency-basket weights for the PLN, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Poland"
+    ]
+  },
+  {
+    "objectID": "countries/POL/index.html#plnusd-level",
+    "href": "countries/POL/index.html#plnusd-level",
+    "title": "Poland",
+    "section": "PLN/USD level",
+    "text": "PLN/USD level",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Poland"
+    ]
+  },
+  {
+    "objectID": "countries/POL/index.html#structural-breaks",
+    "href": "countries/POL/index.html#structural-breaks",
+    "title": "Poland",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1997-05-16\n123\n0.764\n0.182\n0.349\n0.032\n0.516\n0.087\n0.236\n\n\n1997-05-23--2003-11-28\n341\n0.483\n0.067\n0.383\n-0.002\n0.563\n-0.062\n1.605\n\n\n2003-12-05--2008-08-08\n245\n0.683\n-0.134\n-0.195\n-0.028\n1.109\n0.015\n0.873\n\n\n2008-08-15--2012-01-27\n181\n0.528\n0.058\n-0.116\n-0.360\n1.022\n0.256\n2.200\n\n\n2012-02-03--2025-06-06\n697\n0.698\n0.001\n-0.207\n-0.082\n1.138\n0.023\n0.553\n\n\n2025-06-13--2026-10-30\n73\n0.857\n0.033\n-0.272\n-0.054\n1.401\n-0.063\n0.112\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Poland"
+    ]
+  },
+  {
+    "objectID": "countries/POL/index.html#evolution-of-currency-weights",
+    "href": "countries/POL/index.html#evolution-of-currency-weights",
+    "title": "Poland",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Poland"
+    ]
+  },
+  {
+    "objectID": "countries/ROU/index.html",
+    "href": "countries/ROU/index.html",
+    "title": "Romania",
+    "section": "",
+    "text": "Currency-basket weights for the RON, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Romania"
+    ]
+  },
+  {
+    "objectID": "countries/ROU/index.html#ronusd-level",
+    "href": "countries/ROU/index.html#ronusd-level",
+    "title": "Romania",
+    "section": "RON/USD level",
+    "text": "RON/USD level",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Romania"
+    ]
+  },
+  {
+    "objectID": "countries/ROU/index.html#structural-breaks",
+    "href": "countries/ROU/index.html#structural-breaks",
+    "title": "Romania",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1995-10-13\n40\n0.947\n0.502\n0.968\n0.020\n0.027\n-0.023\n0.038\n\n\n1995-10-20--1996-09-20\n49\n0.341\n0.833\n0.612\n0.470\n-1.364\n1.165\n1.541\n\n\n1996-09-27--1997-04-04\n26\n0.475\n2.519\n-1.555\n-0.491\n2.820\n0.722\n13.645\n\n\n1997-04-11--1999-11-19\n137\n0.551\n0.676\n0.790\n-0.058\n0.150\n0.169\n1.963\n\n\n1999-11-26--2003-01-10\n164\n0.907\n0.384\n0.908\n0.030\n-0.052\n0.085\n0.245\n\n\n2003-01-17--2013-08-02\n551\n0.695\n0.042\n0.055\n-0.103\n1.016\n-0.029\n1.008\n\n\n2013-08-09--2019-03-01\n291\n0.923\n0.022\n-0.009\n0.002\n0.993\n0.012\n0.137\n\n\n2019-03-08--2022-08-05\n179\n0.982\n0.018\n-0.047\n0.021\n0.990\n0.011\n0.019\n\n\n2022-08-12--2023-10-27\n64\n0.904\n0.009\n0.026\n0.029\n0.982\n-0.019\n0.140\n\n\n2023-11-03--2025-05-02\n79\n0.998\n0.005\n-0.006\n0.001\n0.995\n0.017\n0.002\n\n\n2025-05-09--2026-10-30\n78\n0.777\n0.094\n-0.049\n-0.065\n1.314\n-0.164\n0.199\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Romania"
+    ]
+  },
+  {
+    "objectID": "countries/ROU/index.html#evolution-of-currency-weights",
+    "href": "countries/ROU/index.html#evolution-of-currency-weights",
+    "title": "Romania",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Romania"
+    ]
+  },
+  {
+    "objectID": "countries/SAU/index.html",
+    "href": "countries/SAU/index.html",
+    "title": "Saudi Arabia",
+    "section": "",
+    "text": "Currency-basket weights for the SAR, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-10-13.",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Saudi Arabia"
+    ]
+  },
+  {
+    "objectID": "countries/SAU/index.html#sarusd-level",
+    "href": "countries/SAU/index.html#sarusd-level",
+    "title": "Saudi Arabia",
+    "section": "SAR/USD level",
+    "text": "SAR/USD level",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Saudi Arabia"
+    ]
+  },
+  {
+    "objectID": "countries/SAU/index.html#structural-breaks",
+    "href": "countries/SAU/index.html#structural-breaks",
+    "title": "Saudi Arabia",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1998-08-21\n189\n1.000\n0.000\n1.000\n0.000\n-0.002\n0.002\n0.000\n\n\n1998-08-28--1999-03-12\n29\n0.999\n0.002\n0.996\n0.001\n0.014\n-0.016\n0.004\n\n\n1999-03-19--2004-03-26\n263\n1.000\n0.000\n1.000\n0.000\n0.001\n-0.001\n0.000\n\n\n2004-04-02--2007-09-14\n181\n1.000\n0.000\n0.999\n0.000\n0.001\n0.001\n0.000\n\n\n2007-09-21--2009-02-06\n73\n0.997\n0.009\n0.976\n0.024\n0.004\n0.002\n0.028\n\n\n2009-02-13--2010-02-19\n54\n1.000\n0.000\n0.999\n0.000\n0.001\n0.000\n0.000\n\n\n2010-02-26--2014-08-22\n234\n1.000\n0.000\n1.000\n0.001\n0.000\n0.000\n0.000\n\n\n2014-08-29--2015-02-27\n27\n0.999\n-0.011\n0.967\n-0.004\n0.005\n0.012\n0.002\n\n\n2015-03-06--2015-11-20\n38\n1.000\n0.000\n1.001\n-0.001\n-0.002\n0.001\n0.000\n\n\n2015-11-27--2017-05-12\n76\n0.999\n0.000\n1.000\n-0.005\n0.011\n-0.003\n0.002\n\n\n2017-05-19--2026-10-16\n492\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Saudi Arabia"
+    ]
+  },
+  {
+    "objectID": "countries/SAU/index.html#evolution-of-currency-weights",
+    "href": "countries/SAU/index.html#evolution-of-currency-weights",
+    "title": "Saudi Arabia",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Saudi Arabia"
+    ]
+  },
+  {
+    "objectID": "countries/THA/index.html",
+    "href": "countries/THA/index.html",
+    "title": "Thailand",
+    "section": "",
+    "text": "Currency-basket weights for the THB, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-03 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Thailand"
+    ]
+  },
+  {
+    "objectID": "countries/THA/index.html#thbusd-level",
+    "href": "countries/THA/index.html#thbusd-level",
+    "title": "Thailand",
+    "section": "THB/USD level",
+    "text": "THB/USD level",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Thailand"
+    ]
+  },
+  {
+    "objectID": "countries/THA/index.html#structural-breaks",
+    "href": "countries/THA/index.html#structural-breaks",
+    "title": "Thailand",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--1997-05-16\n123\n0.971\n0.011\n0.843\n0.076\n0.089\n-0.013\n0.018\n\n\n1997-05-23--1998-06-19\n57\n0.041\n0.060\n-0.578\n-0.161\n0.661\n-0.433\n15.375\n\n\n1998-06-26--2000-12-29\n132\n0.602\n0.035\n0.742\n0.135\n0.152\n-0.116\n1.227\n\n\n2001-01-05--2006-11-24\n308\n0.863\n-0.039\n0.620\n0.243\n0.074\n0.000\n0.291\n\n\n2006-12-01--2008-03-07\n67\n0.197\n-0.068\n0.532\n0.053\n-0.108\n-0.140\n2.582\n\n\n2008-03-14--2020-05-29\n638\n0.873\n-0.010\n0.678\n0.088\n0.077\n0.014\n0.340\n\n\n2020-06-05--2026-10-30\n335\n0.528\n-0.011\n0.303\n0.209\n0.197\n0.062\n0.613\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Thailand"
+    ]
+  },
+  {
+    "objectID": "countries/THA/index.html#evolution-of-currency-weights",
+    "href": "countries/THA/index.html#evolution-of-currency-weights",
+    "title": "Thailand",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "East Asia & Pacific",
+      "Thailand"
+    ]
+  },
+  {
+    "objectID": "countries/TUN/index.html",
+    "href": "countries/TUN/index.html",
+    "title": "Tunisia",
+    "section": "",
+    "text": "Currency-basket weights for the TND, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 2010-06-14 to 2019-01-18.",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Tunisia"
+    ]
+  },
+  {
+    "objectID": "countries/TUN/index.html#tndusd-level",
+    "href": "countries/TUN/index.html#tndusd-level",
+    "title": "Tunisia",
+    "section": "TND/USD level",
+    "text": "TND/USD level",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Tunisia"
+    ]
+  },
+  {
+    "objectID": "countries/TUN/index.html#structural-breaks",
+    "href": "countries/TUN/index.html#structural-breaks",
+    "title": "Tunisia",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n2010-06-25--2019-01-18\n445\n0.783\n0.146\n0.489\n0.037\n0.439\n0.053\n0.495\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Tunisia"
+    ]
+  },
+  {
+    "objectID": "countries/TUN/index.html#evolution-of-currency-weights",
+    "href": "countries/TUN/index.html#evolution-of-currency-weights",
+    "title": "Tunisia",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Middle East & North Africa",
+      "Tunisia"
+    ]
+  },
+  {
+    "objectID": "countries/UKR/index.html",
+    "href": "countries/UKR/index.html",
+    "title": "Ukraine",
+    "section": "",
+    "text": "Currency-basket weights for the UAH, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1996-09-02 to 2026-10-27.",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Ukraine"
+    ]
+  },
+  {
+    "objectID": "countries/UKR/index.html#uahusd-level",
+    "href": "countries/UKR/index.html#uahusd-level",
+    "title": "Ukraine",
+    "section": "UAH/USD level",
+    "text": "UAH/USD level",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Ukraine"
+    ]
+  },
+  {
+    "objectID": "countries/UKR/index.html#structural-breaks",
+    "href": "countries/UKR/index.html#structural-breaks",
+    "title": "Ukraine",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1996-09-13--2000-03-17\n184\n0.353\n0.646\n1.344\n0.052\n-0.250\n-0.185\n4.015\n\n\n2000-03-24--2002-04-05\n107\n0.996\n-0.020\n1.009\n-0.006\n-0.015\n0.004\n0.011\n\n\n2002-04-12--2005-01-21\n146\n1.000\n-0.003\n1.000\n0.000\n-0.001\n0.001\n0.000\n\n\n2005-01-28--2005-07-22\n26\n0.766\n-0.275\n0.677\n0.277\n0.077\n-0.019\n0.492\n\n\n2005-07-29--2008-05-16\n147\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n2008-05-23--2009-08-28\n67\n0.686\n0.682\n1.070\n-0.007\n-0.085\n0.077\n5.802\n\n\n2009-09-04--2012-07-13\n150\n0.998\n-0.001\n1.009\n-0.004\n0.005\n-0.004\n0.009\n\n\n2012-07-20--2014-01-31\n81\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n2014-02-07--2022-07-22\n442\n0.255\n0.349\n1.130\n0.104\n-0.113\n0.182\n9.087\n\n\n2022-07-29--2023-09-29\n62\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n2023-10-06--2026-10-30\n161\n0.813\n0.138\n0.843\n0.042\n0.089\n0.015\n0.303\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Ukraine"
+    ]
+  },
+  {
+    "objectID": "countries/UKR/index.html#evolution-of-currency-weights",
+    "href": "countries/UKR/index.html#evolution-of-currency-weights",
+    "title": "Ukraine",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Europe & Central Asia",
+      "Ukraine"
+    ]
+  },
+  {
+    "objectID": "countries/VEN/index.html",
+    "href": "countries/VEN/index.html",
+    "title": "Venezuela",
+    "section": "",
+    "text": "Currency-basket weights for the VED, estimated with the structural-break regression framework of Zeileis, Shah, and Patnaik (2010) (R package fxregime) on weekly returns expressed in NZD. Sample: 1995-01-02 to 2018-08-17.",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Venezuela"
+    ]
+  },
+  {
+    "objectID": "countries/VEN/index.html#vedusd-level",
+    "href": "countries/VEN/index.html#vedusd-level",
+    "title": "Venezuela",
+    "section": "VED/USD level",
+    "text": "VED/USD level",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Venezuela"
+    ]
+  },
+  {
+    "objectID": "countries/VEN/index.html#structural-breaks",
+    "href": "countries/VEN/index.html#structural-breaks",
+    "title": "Venezuela",
+    "section": "Structural breaks",
+    "text": "Structural breaks\n\n\n\nEstimated currency weights and R² by regime\n\n\nregime\nn_obs\nr2\n(Intercept)\nUSD\nJPY\nEUR\nGBP\n(Variance)\n\n\n\n\n1995-01-13--2003-02-07\n422\n0.135\n0.529\n1.250\n-0.003\n0.135\n-0.256\n16.321\n\n\n2003-02-14--2004-02-06\n52\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n2004-02-13--2006-02-10\n105\n0.483\n0.282\n1.300\n0.123\n0.080\n-0.401\n4.090\n\n\n2006-02-17--2010-01-08\n204\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n2010-01-15--2010-12-10\n48\n0.199\n0.654\n4.569\n-2.393\n1.715\n-2.517\n83.469\n\n\n2010-12-17--2013-02-01\n112\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n2013-02-08--2013-08-02\n26\n0.382\n1.531\n0.571\n-0.653\n-2.429\n5.149\n37.626\n\n\n2013-08-09--2015-09-18\n111\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n2015-09-25--2016-03-18\n26\n0.188\n3.596\n1.834\n1.441\n-1.653\n-2.946\n63.067\n\n\n2016-03-25--2018-02-02\n98\n1.000\n0.000\n1.000\n0.000\n0.000\n0.000\n0.000\n\n\n2018-02-09--2018-08-17\n28\n0.300\n5.355\n-41.454\n-46.499\n58.057\n51.177\n14430.583\n\n\n\n\n\n\nDownload Table as CSV",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Venezuela"
+    ]
+  },
+  {
+    "objectID": "countries/VEN/index.html#evolution-of-currency-weights",
+    "href": "countries/VEN/index.html#evolution-of-currency-weights",
+    "title": "Venezuela",
+    "section": "Evolution of currency weights",
+    "text": "Evolution of currency weights",
+    "crumbs": [
+      "Home",
+      "Latin America & Caribbean",
+      "Venezuela"
+    ]
+  }
+]

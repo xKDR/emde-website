@@ -1,0 +1,152 @@
+/* 
+ * styles.css for EMDE Website 
+ * Aesthetic: Clean, academic, mirroring XKDR Forum and LaTeX templates
+ */
+
+:root {
+  /* Brand colors extracted from beamercolorthemeXKDR.sty */
+  --xkdr-orange: rgb(242, 122, 105);     /* SpOrange */
+  --xkdr-lightgray: rgb(242, 244, 241);  /* SpLightGray */
+  --xkdr-nearblack: rgb(28, 28, 28);     /* SpNearBlack */
+  
+  --xkdr-bg: #ffffff;
+  --xkdr-muted: #6c757d;
+  --font-family-sans: 'Inter', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  --font-family-serif: 'Merriweather', 'Georgia', 'Times New Roman', serif;
+}
+
+/* Base Body Styling */
+body {
+  font-family: var(--font-family-sans);
+  color: var(--xkdr-nearblack);
+  background-color: var(--xkdr-bg);
+  line-height: 1.7;
+  font-size: 1.05rem;
+}
+
+/* Typography - Bold, crisp headers mimicking articleXKDR.sty structure */
+h1, h2, h3, h4, h5, h6, 
+.quarto-title h1, 
+.quarto-title-block h1 {
+  font-family: var(--font-family-sans);
+  font-weight: 700;
+  color: var(--xkdr-nearblack);
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  letter-spacing: -0.01em;
+}
+
+/* Quarto Specific Title Block */
+header#title-block-header {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 3px solid var(--xkdr-nearblack);
+}
+
+.quarto-title-meta-heading {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--xkdr-muted);
+}
+
+/* Links */
+a {
+  color: var(--xkdr-orange);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease-in-out;
+}
+
+a:hover {
+  color: var(--xkdr-nearblack);
+  border-bottom: 1px solid var(--xkdr-nearblack);
+  text-decoration: none;
+}
+
+/* Navbar Customization (Clean, white/lightgray background) */
+.navbar {
+  background-color: var(--xkdr-bg) !important;
+  border-bottom: 1px solid var(--xkdr-lightgray);
+  padding: 0.8rem 1.5rem;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--xkdr-nearblack) !important;
+}
+
+.navbar-nav .nav-link {
+  color: var(--xkdr-nearblack) !important;
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin: 0 0.5rem;
+  border-bottom: none;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: var(--xkdr-orange) !important;
+}
+
+/* Logo Sizing for the Navbar */
+.navbar-brand img, .navbar-logo {
+  max-height: 50px; 
+  width: auto;
+  margin-right: 15px;
+}
+
+/* Sidebar / Table of Contents styling */
+#TOC {
+  background-color: var(--xkdr-lightgray);
+  border-radius: 4px;
+  padding: 1.5rem;
+  font-size: 0.9rem;
+  border: 1px solid #e9ecef;
+}
+
+#TOC ul {
+  list-style-type: none;
+  padding-left: 1rem;
+}
+
+#TOC a {
+  color: var(--xkdr-nearblack);
+  border-bottom: none;
+}
+
+#TOC a:hover {
+  color: var(--xkdr-orange);
+}
+
+/* Blockquotes for citations / excerpts */
+blockquote {
+  border-left: 4px solid var(--xkdr-orange);
+  background-color: var(--xkdr-lightgray);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  color: var(--xkdr-nearblack);
+  border-radius: 0 4px 4px 0;
+}
+
+/* Tables - Clean Academic style */
+table {
+  width: 100%;
+  margin-bottom: 2rem;
+  border-collapse: collapse;
+}
+
+th {
+  border-bottom: 2px solid var(--xkdr-nearblack);
+  color: var(--xkdr-nearblack);
+  font-weight: 600;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+td {
+  border-bottom: 1px solid var(--xkdr-lightgray);
+  padding: 0.75rem;
+}

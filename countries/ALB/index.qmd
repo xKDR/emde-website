@@ -1,0 +1,69 @@
+---
+title: "Albania"
+---
+
+```{r setup}
+#| echo: false
+#| message: false
+#| warning: false
+
+pacman::p_load(zoo, dplyr, ggplot2, scales, plotly, knitr)
+source("../../R/plots.R")
+LOGO <- "../../XKDRORGFILES/XKDR_Logomark_RGB_Full_Colour.png"
+res  <- readRDS("../../results/ALB.rds")$fit
+```
+
+Currency-basket weights for the ALL, estimated with the structural-break regression framework of @zeileis2010testing (R package `fxregime`) on weekly returns expressed in NZD. Sample: 1998-12-01 to 2026-10-26.
+
+::: {.text-end style="margin-bottom: 10px;"}
+[Download R Script](ALB_script.R){.btn .btn-outline-secondary .btn-sm download="ALB_script.R"}
+[Download input data](ALB_fx_data.csv){.btn .btn-outline-secondary .btn-sm download="ALB_fx_data.csv"}
+:::
+
+## ALL/USD level
+
+```{r levels}
+#| echo: false
+#| message: false
+#| warning: false
+#| column: page-right
+
+plot_level(res, "ALL/USD Rate", LOGO)
+```
+
+## Structural breaks
+
+```{r breaks}
+#| echo: false
+#| message: false
+#| warning: false
+#| column: page-right
+
+tab <- res$regimes[, setdiff(names(res$regimes), c("start", "end"))]
+knitr::kable(
+  tab, digits = 3, format = "html",
+  table.attr = 'class="table table-striped table-hover"',
+  caption = "Estimated currency weights and R² by regime"
+)
+```
+
+```{r note}
+#| echo: false
+#| results: asis
+if (nzchar(res$note)) cat("*Note:*", res$note, "\n")
+```
+
+::: {.text-end style="margin-top: 10px;"}
+[Download Table as CSV](ALB_regimes.csv){.btn .btn-outline-secondary .btn-sm download="ALB_regimes.csv"}
+:::
+
+## Evolution of currency weights
+
+```{r weights}
+#| echo: false
+#| message: false
+#| warning: false
+#| column: page-right
+
+plot_weights(res, LOGO)
+```

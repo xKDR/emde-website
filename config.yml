@@ -1,0 +1,89 @@
+# ---------------------------------------------------------------------------
+# EMDE website configuration. This is the only file you need to edit.
+# After editing run:   Rscript build.R            (add --render to build the site)
+# ---------------------------------------------------------------------------
+
+# Settings applied to every country (override per country below).
+defaults:
+  start: 1995-01-01          # first date used in the regression
+  end: null                  # null = latest available date
+  numeraire: NZD             # neutral currency all rates are expressed against
+  regressors: [USD, JPY, EUR, GBP]   # the country's own currency is dropped automatically
+  frequency: weekly
+  h: 26                      # minimum regime length (observations)
+  breaks: 10                 # maximum number of breaks searched
+  ic: BIC                    # information criterion for choosing the number of breaks
+
+# BIS (WS_XRU) reference area for the numeraire and each regressor currency.
+# USD is derived as 1 / numeraire and needs no entry.
+anchor_areas:
+  NZD: NZ
+  JPY: JP
+  EUR: XM
+  GBP: GB
+
+# BIS download: one small request per country/anchor, cached in data/raw/bis/.
+bis:
+  from: 1990-01-01
+
+# Countries, as ISO2C codes. This order is the row order on the landing page.
+# A country can be a bare code or a code with overrides.
+countries:
+    - AE
+    - AL
+    - AR
+    - BA
+    - BG
+    - BH
+    - BN
+    - BR
+    - CL
+    - CN
+    - CO
+    - DZ
+    - HU
+    - ID
+    - IN
+    - IR
+    - KR
+    - KW
+    - KZ
+    - LK
+    - MA
+    - MK
+    - MU
+    - MX
+    - MY
+    - NP
+    - OM
+    - PE
+    - PH
+    - PK
+    - PL
+    - QA
+    - RO
+    - RS
+    - RU
+    - SA
+    - TH
+    - TN
+    - TR
+    - TT
+    - UA
+    - UY
+    - VE
+    - ZA
+  # - {code: PL, start: 2000-01-01}
+  # - {code: TR, breaks: 8}
+
+# Vertical lines on the landing-page timeline.
+events:
+  - {label: "Asian Financial Crisis (Jul 1997)", date: 1997-07-01}
+  - {label: "Global Financial Crisis (Sep 2008)", date: 2008-09-01}
+  - {label: "Taper Tantrum (May 2013)", date: 2013-05-01}
+  - {label: "COVID-19 Pandemic (Mar 2020)", date: 2020-03-01}
+  - {label: "Russia-Ukraine War (Feb 2022)", date: 2022-02-01}
+  - {label: "Trade War (Apr 2025)", date: 2025-04-01}
+
+# Parallel workers for fitting.
+cores: 24

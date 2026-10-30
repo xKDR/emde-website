@@ -1,0 +1,20 @@
+---
+title: "EMDE Homepage"
+---
+
+Welcome to the EMDE project website. Each cell below shows the explanatory power (R²) of the currency-basket regression within one estimated exchange-rate regime. Use the sidebar to open a country page, or see [About](about.qmd) for the methodology and references.
+
+```{r landing}
+#| echo: false
+#| message: false
+#| warning: false
+
+pacman::p_load(dplyr, ggplot2, scales, plotly, knitr)
+source("R/plots.R")
+S <- readRDS("results/summary.rds")
+plot_timeline(S$regimes, S$order, S$events, "XKDRORGFILES/XKDR_Logomark_RGB_Full_Colour.png")
+```
+
+::: {.text-end style="margin-top: 10px;"}
+[Download all regimes as CSV](emde_regimes_all.csv){.btn .btn-outline-secondary .btn-sm download="emde_regimes_all.csv"}
+:::
